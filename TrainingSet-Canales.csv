@@ -1,0 +1,1799 @@
+Cell_name,ShopType,Chain
+Conv Manaus,Conveniencia,non
+INDEP 1 CK Manaus,Autoservicio 1 CK,non
+INDEP 2-4 CK Manaus,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Manaus,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Manaus,Autoservicio 10-19 CK,non
+Trad PQ CC Manaus,Tradicional Peq CC,non
+Trad MD CC Manaus,Tradicional Med + Gde CC,non
+Trad PQ SC Manaus,Tradicional Peq SC,non
+Trad MD SC Manaus,Tradicional Med + Gde SC,non
+Pad Med Manaus,Padar¡a Med,non
+Pad Gde  Manaus,Padar¡a Gde,non
+Bar Peq Manaus,Bar Peq,non
+Bar Gde Manaus,Bar Gde,non
+Farm Pq INDEP Manaus,Farmacia Peq,non
+Farm MD INDEP Manaus,Farmacia Med + Gde,non
+Perf PQ INDEP Manaus,Perfumeria Peq + Gde,non
+LASA 5-9 CK Manaus,Autoservicio 5-9 CK,chain
+LASA 10-19 CK Manaus,Autoservicio 10-19 CK,non
+LASA 20-49 CK Manaus,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Manaus,Autoservicio 20-49 CK,non
+Farma ANGELICA Manaus,Farmacia,chain
+Farma DEMAIS CADEIAS MED Manaus,Farmacia Med,non
+Farma PAGUE MENOS Manaus,Farmacia,chain
+Conv Belem,Conveniencia,non
+INDEP 1 CK Belem,Autoservicio 1 CK,non
+INDEP 2-4 CK Belem,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Belem,Autoservicio 5-9 CK,non
+Trad PQ CC Belem,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Belem,Tradicional Peq + Med + Gde SC,non
+Pad Peq Belem,Padar¡a Peq + Med + Gde,non
+Bar Peq Belem,Bar Peq,non
+Bar Gde Belem,Bar Gde,non
+Farm Pq INDEP Belem,Farmacia Peq + Med + Gde,non
+Perf PQ INDEP Belem,Perfumeria Peq + Gde,non
+LASA 5-9 CK Belem,Autoservicio 5-9 CK,non
+LASA 10-19 CK Belem,Autoservicio 10-19 CK,non
+LASA 20-49 CK Belem,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Belem,Farmacia,chain
+Farma BIG BEN  Belem,Farmacia,chain
+Farma EXTRAFARMA Belem,Farmacia,chain
+Conv Int MA,Conveniencia,non
+INDEP 1 CK Int MA,Autoservicio 1 CK,non
+INDEP 2-4 CK Int MA,Autoservicio 2-4 CK,non
+Trad PQ CC Int MA,Tradicional Peq + Med CC,non
+Trad PQ SC Int MA,Tradicional Peq SC,non
+Trad MD SC Int MA,Tradicional Med + Gde SC,non
+Pad Peq Int MA,Padar¡a Peq,non
+Pad Med Int MA,Padar¡a Med + Gde,non
+Bar Peq Int MA,Bar Peq,non
+Bar Gde Int MA,Bar Gde,non
+Farm Pq INDEP Int MA,Farmacia Peq,non
+Farm MD INDEP Int MA,Farmacia Med + Gde,non
+Perf PQ INDEP Int MA,Perfumeria Peq + Gde,non
+COM CARVALHO 5-9 CK Int MA,Autoservicio 5-9 CK,chain
+COM CARVALHO 10-19 CK Int MA,Autoservicio 10-19 CK,chain
+COM CARVALHO 20-49 CK Int MA,Autoservicio 20-49 CK,chain
+BOM PRE€O 5-9 CK Int MA,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Int MA,Autoservicio 10-19 CK,chain
+LASA 10-19 CK Int MA,Autoservicio 10-19 CK,non
+Farma PAGUE MENOS Int MA,Farmacia,chain
+Farma EXTRAFARMA Int MA,Farmacia,chain
+Farma BIG BEN  Int MA,Farmacia,chain
+FRONTEIRAS Perf Int MA,Perfumeria,chain
+Conv Int Piau¡,Conveniencia,non
+INDEP 1 CK Int Piau¡,Autoservicio 1 CK,non
+INDEP 2-4 CK Int Piau¡,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Int Piau¡,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Int Piau¡,Autoservicio 10-19 CK,non
+Trad PQ CC Int Piau¡,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Int Piau¡,Tradicional Peq + Med SC,non
+Pad Peq Int Piau¡,Padar¡a Peq,non
+Pad Med Int Piau¡,Padar¡a Med + Gde,non
+Bar Peq Int Piau¡,Bar Peq,non
+Bar Gde Int Piau¡,Bar Gde,non
+Farm Pq INDEP Int Piau¡,Farmacia Peq,non
+Farm MD INDEP Int Piau¡,Farmacia Med + Gde,non
+COM CARVALHO 5-9 CK Int Piau¡,Autoservicio 5-9 CK,chain
+COM CARVALHO 10-19 CK Int Piau¡,Autoservicio 10-19 CK,chain
+COM CARVALHO 20-49 CK Int Piau¡,Autoservicio 20-49 CK,chain
+Farma PAGUE MENOS Int Piau¡,Farmacia,chain
+Farma BIG BEN  Int Piau¡,Farmacia,chain
+Conv SÆo Lu¡s,Conveniencia,non
+INDEP 1 CK SÆo Lu¡s,Autoservicio 1 CK,non
+INDEP 2-4 CK SÆo Lu¡s,Autoservicio 2-4 CK,non
+INDEP 5-9 CK SÆo Lu¡s,Autoservicio 5-9 CK,non
+INDEP 10-19 CK SÆo Lu¡s,Autoservicio 10-19 CK,non
+Trad PQ CC SÆo Lu¡s,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC SÆo Lu¡s,Tradicional Peq + Med + Gde SC,non
+Pad Peq SÆo Lu¡s,Padar¡a Peq + Med + Gde,non
+Bar Peq SÆo Lu¡s,Bar Peq,non
+Bar Gde SÆo Lu¡s,Bar Gde,non
+Farm Pq INDEP SÆo Lu¡s,Farmacia Peq,non
+Farm MD INDEP SÆo Lu¡s,Farmacia Med + Gde,non
+Perf PQ INDEP SÆo Lu¡s,Perfumeria Peq + Gde,non
+BOM PRE€O 5-9 CK SÆo Lu¡s,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK SÆo Lu¡s,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK SÆo Lu¡s,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK SÆo Lu¡s,Autoservicio 50+CK,chain
+LASA 10-19 CK SÆo Lu¡s,Autoservicio 10-19 CK,non
+LASA 20-49 CK SÆo Lu¡s,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS SÆo Lu¡s,Farmacia,chain
+Farma EXTRAFARMA SÆo Lu¡s,Farmacia,chain
+Farma BIG BEN  SÆo Lu¡s,Farmacia,chain
+FRONTEIRAS Perf SÆo Lu¡s,Perfumeria,chain
+SHOPPING COSMTICOS Perf SÆo Lu¡s,Perfumeria,chain
+INDEP 1 CK Teresina,Autoservicio 1 CK,non
+INDEP 2-4 CK Teresina,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Teresina,Autoservicio 5-9 CK,non
+Trad PQ CC Teresina,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Teresina,Tradicional Peq + Med + Gde SC,non
+Pad Peq Teresina,Padar¡a Peq,non
+Pad Gde  Teresina,Padar¡a Med + Gde,non
+Bar Peq Teresina,Bar Peq,non
+Bar Gde Teresina,Bar Gde,non
+Farm Pq INDEP Teresina,Farmacia Peq,non
+Farm MD INDEP Teresina,Farmacia Med + Gde,non
+EXTRA 20-49 CK Teresina,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK Teresina,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Teresina,Autoservicio 10-19 CK,non
+COM CARVALHO 5-9 CK Teresina,Autoservicio 5-9 CK,chain
+COM CARVALHO 10-19 CK Teresina,Autoservicio 10-19 CK,chain
+COM CARVALHO 20-49 CK Teresina,Autoservicio 20-49 CK,chain
+LASA 10-19 CK Teresina,Autoservicio 10-19 CK,non
+LASA 20-49 CK Teresina,Autoservicio 20-49 CK,non
+BOM PRE€O 10-19 CK Teresina,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Teresina,Autoservicio 20-49 CK,non
+Farma BIG BEN  Teresina,Farmacia,chain
+Farma PAGUE MENOS Teresina,Farmacia,chain
+Farma EXTRA DROGARIA Teresina,Farmacia,chain
+Farma EXTRAFARMA Teresina,Farmacia,chain
+FRONTEIRAS Perf Teresina,Perfumeria,chain
+DEM CAD 10-19 CK Belem,Autoservicio 10-19 CK,non
+LASA 10-19 CK Int Piau¡,Autoservicio 10-19 CK,non
+DEM CAD 5-9 CK SÆo Lu¡s,Autoservicio 5-9 CK,non
+EXTRA  PERTO 10-19 CK Teresina,Autoservicio 10-19 CK,chain
+Farma EXTRAFARMA Int Piau¡,Farma,chain
+Farma EXTRA PERTO Teresina,Farma,chain
+Conv Alagoas,Conveniencia,non
+INDEP 1 CK Alagoas,Autoservicio 1 CK,non
+INDEP 2-4 CK Alagoas,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Alagoas,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+INDEP 20-49 CK Alagoas,Autoservicio 20-49 CK,non
+Trad PQ CC Alagoas,Tradicional Peq CC,non
+Trad PQ SC Alagoas,Tradicional Peq SC,non
+Trad MD SC Alagoas,Tradicional Med + Gde SC,non
+Pad Peq Alagoas,Padar¡a Peq,non
+Pad Med Alagoas,Padar¡a Med,non
+Pad Gde  Alagoas,Padar¡a Gde,non
+Bar Peq Alagoas,Bar Peq,non
+Bar Gde Alagoas,Bar Gde,non
+Farm Pq INDEP Alagoas,Farmacia Peq,non
+Farm MD INDEP Alagoas,Farmacia Med + Gde,non
+Perf PQ INDEP Alagoas,Perfumeria Peq,non
+BOM PRE€O 5-9 CK Alagoas,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Alagoas,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Alagoas,Autoservicio 50+CK,chain
+LASA 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+LASA 20-49 CK Alagoas,Autoservicio 20-49 CK,non
+EXTRA 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+EXTRA 50+ CK Alagoas,Autoservicio 50+CK,chain
+GBARBOSA 5-9 CK Alagoas,Autoservicio 5-9 CK,non
+GBARBOSA 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+GBARBOSA 20-49 CK Alagoas,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Alagoas,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Alagoas,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Alagoas,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Alagoas,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Alagoas,Farmacia,chain
+Farma EXTRA DROGARIA Alagoas,Farmacia,chain
+Farma BIG BEN  Alagoas,Farmacia,chain
+Farma GBARBOSA FARMA Alagoas,Farmacia,chain
+FRONTEIRAS Perf Alagoas,Perfumeria,chain
+Conv Paraiba,Conveniencia,non
+INDEP 1 CK Paraiba,Autoservicio 1 CK,non
+INDEP 2-4 CK Paraiba,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Paraiba,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+Trad PQ CC Paraiba,Tradicional Peq CC,non
+Trad MD CC Paraiba,Tradicional Med + Gde CC,non
+Trad GD CC Paraiba,Tradicional Gde CC,non
+Trad PQ SC Paraiba,Tradicional Peq SC,non
+Trad MD SC Paraiba,Tradicional Med + Gde SC,non
+Pad Peq Paraiba,Padar¡a Peq,non
+Pad Gde  Paraiba,Padar¡a Med + Gde,non
+Bar Peq Paraiba,Bar Peq,non
+Bar Gde Paraiba,Bar Gde,non
+Farm Pq INDEP Paraiba,Farmacia Peq,non
+Farm MD INDEP Paraiba,Farmacia Med + Gde,non
+Perf PQ INDEP Paraiba,Perfumeria Peq,non
+Perf GD INDEP Paraiba,Perfumeria Gde,non
+EXTRA PERTO 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+BONANZA 5-9 CK Paraiba,Autoservicio 5-9 CK,non
+BONANZA 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+BONANZA 20-49 CK Paraiba,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Paraiba,Autoservicio 2-4 CK,non
+BOM PRE€O 5-9 CK Paraiba,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Paraiba,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Paraiba,Autoservicio 50+CK,chain
+CARREFOUR 20-49 CK Paraiba,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+LASA 5-9 CK Paraiba,Autoservicio 5-9 CK,non
+LASA 10-19 CK Paraiba,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Paraiba,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Paraiba,Farmacia,chain
+Farma EXTRA DROGARIA Paraiba,Farmacia,chain
+Farma BIG BEN  Paraiba,Farmacia,chain
+Farma GUARARAPES Paraiba,Farma,chain
+Farma DEMAIS CADEIAS MED Paraiba,Farmacia Med,non
+COSMETICO CENTER Perf Paraiba,Perfumeria,chain
+FRONTEIRAS Perf Paraiba,Perfumeria,chain
+Conv Regmet Fortaleza,Conveniencia,non
+INDEP 1 CK Regmet Fortaleza,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet Fortaleza,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+Trad PQ CC Regmet Fortaleza,Tradicional Peq CC,non
+Trad MD CC Regmet Fortaleza,Tradicional Med + Gde CC,non
+Trad PQ SC Regmet Fortaleza,Tradicional Peq SC,non
+Trad MD SC Regmet Fortaleza,Tradicional Med + Gde SC,non
+Pad Peq Regmet Fortaleza,Padar¡a Peq,non
+Pad Med Regmet Fortaleza,Padar¡a Med + Gde,non
+Bar Peq Regmet Fortaleza,Bar Peq,non
+Bar Gde Regmet Fortaleza,Bar Gde,non
+Farm Pq INDEP Regmet Fortaleza,Farmacia Peq,non
+Farm MD INDEP Regmet Fortaleza,Farmacia Med + Gde,non
+Perf PQ INDEP Regmet Fortaleza,Perfumeria Peq + Gde,non
+PÇO DE A€éCAR 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+BOM PRE€O 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Regmet Fortaleza,Autoservicio 50+CK,chain
+EXTRA 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+CARREFOUR 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+CARREFOUR 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+PINHEIRO 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+PINHEIRO 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+PINHEIRO 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+LASA 2-4 CK Regmet Fortaleza,Autoservicio 2-4 CK,non
+LASA 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+LASA 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+EXTRA PERTO 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+AMEX 2-4 CK Regmet Fortaleza,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+GBARBOSA 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,chain
+GBARBOSA 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Regmet Fortaleza,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Regmet Fortaleza,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Regmet Fortaleza,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Regmet Fortaleza,Farmacia,chain
+Farma EXTRA DROGARIA Regmet Fortaleza,Farmacia,chain
+Farma BIG BEN  Regmet Fortaleza,Farmacia,chain
+Farma DROGARIA PÇO DE A€éCAR Regmet Fortaleza,Farmacia,chain
+Farma EXTRAFARMA Regmet Fortaleza,Farmacia,chain
+Farma DEM CAD GDE Regmet Fortaleza,Farmacia Med + Gde,non
+COSMETICO CENTER Perf Regmet Fortaleza,Perfumeria,chain
+FRONTEIRAS Perf Regmet Fortaleza,Perfumeria,chain
+Conv Regmet Recife,Conveniencia,non
+INDEP 1 CK Regmet Recife,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet Recife,Autoservicio 2-4 CK,non
+Trad PQ CC Regmet Recife,Tradicional Peq CC,non
+Trad MD CC Regmet Recife,Tradicional Med + Gde CC,non
+Trad PQ SC Regmet Recife,Tradicional Peq SC,non
+Trad MD SC Regmet Recife,Tradicional Med + Gde SC,non
+Pad Peq Regmet Recife,Padar¡a Peq,non
+Pad Med Regmet Recife,Padar¡a Med,non
+Pad Gde  Regmet Recife,Padar¡a Gde,non
+Bar Peq Regmet Recife,Bar Peq,non
+Bar Gde Regmet Recife,Bar Gde,non
+Farm Pq INDEP Regmet Recife,Farmacia Peq,non
+Farm MD INDEP Regmet Recife,Farmacia Med,non
+Farm GD INDEP Regmet Recife,Farmacia Gde,non
+Perf PQ INDEP Regmet Recife,Perfumeria Peq + Gde,non
+EXTRA 20-49 CK Regmet Recife,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Regmet Recife,Autoservicio 50+CK,chain
+PÇO DE A€éCAR 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+BOM PRE€O 5-9 CK Regmet Recife,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Regmet Recife,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Regmet Recife,Autoservicio 50+CK,chain
+CARREFOUR 20-49 CK Regmet Recife,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Regmet Recife,Autoservicio 50+CK,chain
+LASA 1 CK Regmet Recife,Autoservicio 1 CK,chain
+LASA 5-9 CK Regmet Recife,Autoservicio 5-9 CK,non
+LASA 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet Recife,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Regmet Recife,Autoservicio 2-4 CK,chain
+AMEX 5-9 CK Regmet Recife,Autoservicio 5-9 CK,non
+EXTRA PERTO 5-9 CK Regmet Recife,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+GBARBOSA 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+DEM CAD 2-4 CK Regmet Recife,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Regmet Recife,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Regmet Recife,Autoservicio 10-19 CK,non
+Farma PAGUE MENOS Regmet Recife,Farmacia,chain
+Farma EXTRA DROGARIA Regmet Recife,Farmacia,chain
+Farma BIG BEN  Regmet Recife,Farmacia,chain
+Farma GBARBOSA FARMA Regmet Recife,Farma,chain
+Farma GUARARAPES Regmet Recife,Farmacia,chain
+MUNDO DO CABELEREIRO Perf Regmet Recife,Perfumeria,chain
+Conv Regmet Salvador,Conveniencia,non
+INDEP 1 CK Regmet Salvador,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet Salvador,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,non
+Trad PQ CC Regmet Salvador,Tradicional Peq CC,non
+Trad MD CC Regmet Salvador,Tradicional Med + Gde CC,non
+Trad PQ SC Regmet Salvador,Tradicional Peq SC,non
+Trad MD SC Regmet Salvador,Tradicional Med SC,non
+Pad Peq Regmet Salvador,Padar¡a Peq,non
+Pad Med Regmet Salvador,Padar¡a Med,non
+Pad Gde  Regmet Salvador,Padar¡a Gde,non
+Bar Peq Regmet Salvador,Bar Peq,non
+Bar Gde Regmet Salvador,Bar Gde,non
+Farm Pq INDEP Regmet Salvador,Farmacia Peq,non
+Farm MD INDEP Regmet Salvador,Farmacia Med + Gde,non
+Perf PQ INDEP Regmet Salvador,Perfumeria Peq + Gde,non
+BOM PRE€O 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Regmet Salvador,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Regmet Salvador,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Regmet Salvador,Autoservicio 50+CK,chain
+EXTRA 20-49 CK Regmet Salvador,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Regmet Salvador,Autoservicio 50+CK,chain
+GBARBOSA 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,non
+GBARBOSA 10-19 CK Regmet Salvador,Autoservicio 10-19 CK,non
+GBARBOSA 20-49 CK Regmet Salvador,Autoservicio 20-49 CK,non
+CESTA DO POVO 2-4 CK Regmet Salvador,Autoservicio 2-4 CK,non
+CESTA DO POVO 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,non
+LASA 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,chain
+LASA 10-19 CK Regmet Salvador,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet Salvador,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Regmet Salvador,Autoservicio 5-9 CK,non
+Farma PAGUE MENOS Regmet Salvador,Farmacia,chain
+Farma DROGARIA SÇO PAULO Regmet Salvador,Farmacia,chain
+Farma EXTRA DROGARIA Regmet Salvador,Farmacia,chain
+Farma DROGASIL Regmet Salvador,Farmacia,chain
+Farma GBARBOSA FARMA Regmet Salvador,Farmacia,chain
+Farma DEMAIS CADEIAS MED Regmet Salvador,Farmacia Med + Gde,non
+Conv Resto Ceara,Conveniencia,non
+INDEP 1 CK Resto Ceara,Autoservicio 1 CK,non
+INDEP 2-4 CK Resto Ceara,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Resto Ceara,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Resto Ceara,Autoservicio 10-19 CK,non
+Trad PQ CC Resto Ceara,Tradicional Peq CC,non
+Trad MD CC Resto Ceara,Tradicional Med + Gde CC,non
+Trad PQ SC Resto Ceara,Tradicional Peq SC,non
+Trad MD SC Resto Ceara,Tradicional Med SC,non
+Trad GD SC Resto Ceara,Tradicional Gde SC,non
+Pad Peq Resto Ceara,Padar¡a Peq,non
+Pad Med Resto Ceara,Padar¡a Med + Gde,non
+Bar Peq Resto Ceara,Bar Peq,non
+Bar Gde Resto Ceara,Bar Gde,non
+Farm Pq INDEP Resto Ceara,Farmacia Peq,non
+Farm MD INDEP Resto Ceara,Farmacia Med,non
+Farm GD INDEP Resto Ceara,Farmacia Gde,non
+Perf PQ INDEP Resto Ceara,Perfumeria Peq,non
+Perf GD INDEP Resto Ceara,Perfumeria Gde,non
+LASA 5-9 CK Resto Ceara,Autoservicio 5-9 CK,non
+LASA 10-19 CK Resto Ceara,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Resto Ceara,Autoservicio 20-49 CK,non
+PINHEIRO 5-9 CK Resto Ceara,Autoservicio 5-9 CK,non
+PINHEIRO 10-19 CK Resto Ceara,Autoservicio 10-19 CK,non
+PINHEIRO 20-49 CK Resto Ceara,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Resto Ceara,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Resto Ceara,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Resto Ceara,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Resto Ceara,Farmacia,chain
+Farma EXTRAFARMA Resto Ceara,Farmacia,chain
+FRONTEIRAS Perf Resto Ceara,Perfumeria,chain
+Conv Resto da BA,Conveniencia,non
+INDEP 1 CK Resto da BA,Autoservicio 1 CK,non
+INDEP 2-4 CK Resto da BA,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Resto da BA,Autoservicio 10-19 CK,non
+Trad PQ CC Resto da BA,Tradicional Peq CC,non
+Trad MD CC Resto da BA,Tradicional Med + Gde CC,non
+Trad PQ SC Resto da BA,Tradicional Peq SC,non
+Trad MD SC Resto da BA,Tradicional Med + Gde SC,non
+Pad Peq Resto da BA,Padar¡a Peq,non
+Pad Med Resto da BA,Padar¡a Med,non
+Pad Gde  Resto da BA,Padar¡a Gde,non
+Bar Peq Resto da BA,Bar Peq,non
+Bar Gde Resto da BA,Bar Gde,non
+Farm Pq INDEP Resto da BA,Farmacia Peq,non
+Farm MD INDEP Resto da BA,Farmacia Med + Gde,non
+Perf PQ INDEP Resto da BA,Perfumeria Peq,non
+Perf GD INDEP Resto da BA,Perfumeria Gde,non
+BOM PRE€O 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Resto da BA,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Resto da BA,Autoservicio 20-49 CK,non
+GBARBOSA 2-4 CK Resto da BA,Autoservicio 2-4 CK,non
+GBARBOSA 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+GBARBOSA 10-19 CK Resto da BA,Autoservicio 10-19 CK,non
+GBARBOSA 20-49 CK Resto da BA,Autoservicio 20-49 CK,non
+CESTA DO POVO 2-4 CK Resto da BA,Autoservicio 2-4 CK,non
+CESTA DO POVO 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+LASA 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+LASA 10-19 CK Resto da BA,Autoservicio 10-19 CK,non
+DEM CAD 2-4 CK Resto da BA,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Resto da BA,Autoservicio 5-9 CK,non
+Farma DROGASIL Resto da BA,Farmacia,chain
+Farma DROGARIA SÇO PAULO Resto da BA,Farmacia,chain
+Farma PAGUE MENOS Resto da BA,Farmacia,chain
+Farma GBARBOSA FARMA Resto da BA,Farmacia,chain
+FRONTEIRAS Perf Resto da BA,Perfumeria,chain
+Conv Resto PE,Conveniencia,non
+INDEP 1 CK Resto PE,Autoservicio 1 CK,non
+INDEP 2-4 CK Resto PE,Autoservicio 2-4 CK,non
+INDEP 10-19 CK Resto PE,Autoservicio 10-19 CK,non
+Trad PQ CC Resto PE,Tradicional Peq CC,non
+Trad MD CC Resto PE,Tradicional Med + Gde CC,non
+Trad PQ SC Resto PE,Tradicional Peq SC,non
+Trad MD SC Resto PE,Tradicional Med + Gde SC,non
+Pad Peq Resto PE,Padar¡a Peq,non
+Pad Med Resto PE,Padar¡a Med,non
+Pad Gde  Resto PE,Padar¡a Gde,non
+Bar Peq Resto PE,Bar Peq,non
+Bar Gde Resto PE,Bar Gde,non
+Farm Pq INDEP Resto PE,Farmacia Peq,non
+Farm MD INDEP Resto PE,Farmacia Med,non
+Farm GD INDEP Resto PE,Farmacia Gde,non
+Perf PQ INDEP Resto PE,Perfumeria Peq,non
+Perf GD INDEP Resto PE,Perfumeria Gde,non
+BONANZA 5-9 CK Resto PE,Autoservicio 5-9 CK,non
+BONANZA 10-19 CK Resto PE,Autoservicio 10-19 CK,non
+BOM PRE€O 5-9 CK Resto PE,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Resto PE,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Resto PE,Autoservicio 20-49 CK,non
+LASA 2-4 CK Resto PE,Autoservicio 2-4 CK,non
+LASA 5-9 CK Resto PE,Autoservicio 5-9 CK,non
+LASA 10-19 CK Resto PE,Autoservicio 10-19 CK,non
+GBARBOSA 5-9 CK Resto PE,Autoservicio 5-9 CK,chain
+GBARBOSA 50+ CK Resto PE,Autoservicio 50+CK,chain
+DEM CAD 2-4 CK Resto PE,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Resto PE,Autoservicio 5-9 CK,non
+Farma PAGUE MENOS Resto PE,Farmacia,chain
+Farma BIG BEN  Resto PE,Farmacia,chain
+Conv Rio Gde Nte,Conveniencia,non
+INDEP 1 CK Rio Gde Nte,Autoservicio 1 CK,non
+INDEP 2-4 CK Rio Gde Nte,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Rio Gde Nte,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Rio Gde Nte,Autoservicio 10-19 CK,non
+Trad PQ CC Rio Gde Nte,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Rio Gde Nte,Tradicional Peq SC,non
+Trad MD SC Rio Gde Nte,Tradicional Med + Gde SC,non
+Pad Med Rio Gde Nte,Padar¡a Peq + Med,non
+Pad Gde  Rio Gde Nte,Padar¡a Gde,non
+Bar Peq Rio Gde Nte,Bar Peq,non
+Bar Gde Rio Gde Nte,Bar Gde,non
+Farm Pq INDEP Rio Gde Nte,Farmacia Peq,non
+Farm MD INDEP Rio Gde Nte,Farmacia Med,non
+Perf PQ INDEP Rio Gde Nte,Perfumeria Peq,non
+BOM PRE€O 10-19 CK Rio Gde Nte,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Rio Gde Nte,Autoservicio 20-49 CK,non
+BOM PRE€O 50+ CK Rio Gde Nte,Autoservicio 50+CK,chain
+EXTRA 20-49 CK Rio Gde Nte,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Rio Gde Nte,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Rio Gde Nte,Autoservicio 50+CK,chain
+NORDESTÇO 10-19 CK Rio Gde Nte,Autoservicio 10-19 CK,non
+NORDESTÇO 20-49 CK Rio Gde Nte,Autoservicio 20-49 CK,non
+LASA 5-9 CK Rio Gde Nte,Autoservicio 5-9 CK,non
+LASA 10-19 CK Rio Gde Nte,Autoservicio 10-19 CK,non
+LASA 20-49 CK Rio Gde Nte,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS Rio Gde Nte,Farmacia,chain
+Farma EXTRA DROGARIA Rio Gde Nte,Farmacia,chain
+Farma EXTRAFARMA Rio Gde Nte,Farmacia,chain
+Farma DEMAIS CADEIAS MED Rio Gde Nte,Farmacia Med,non
+Farma DEM CAD GDE Rio Gde Nte,Farmacia,non
+FRONTEIRAS Perf Rio Gde Nte,Perfumeria,chain
+Conv Sergipe,Conveniencia,non
+INDEP 1 CK Sergipe,Autoservicio 1 CK,non
+INDEP 2-4 CK Sergipe,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Sergipe,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Sergipe,Autoservicio 10-19 CK,non
+Trad PQ CC Sergipe,Tradicional Peq CC,non
+Trad MD CC Sergipe,Tradicional Med CC,non
+Trad PQ SC Sergipe,Tradicional Peq SC,non
+Trad MD SC Sergipe,Tradicional Med + Gde SC,non
+Trad GD SC Sergipe,Tradicional Gde SC,non
+Pad Med Sergipe,Padar¡a Peq + Med + Gde,non
+Bar Peq Sergipe,Bar Peq,non
+Bar Gde Sergipe,Bar Gde,non
+Farm Pq INDEP Sergipe,Farmacia Peq + Med + Gde,non
+Perf GD INDEP Sergipe,Perfumeria Peq + Gde,non
+GBARBOSA 5-9 CK Sergipe,Autoservicio 5-9 CK,non
+GBARBOSA 10-19 CK Sergipe,Autoservicio 10-19 CK,non
+GBARBOSA 20-49 CK Sergipe,Autoservicio 20-49 CK,non
+BOM PRE€O 5-9 CK Sergipe,Autoservicio 5-9 CK,non
+BOM PRE€O 10-19 CK Sergipe,Autoservicio 10-19 CK,non
+BOM PRE€O 20-49 CK Sergipe,Autoservicio 20-49 CK,non
+LASA 5-9 CK Sergipe,Autoservicio 5-9 CK,non
+LASA 10-19 CK Sergipe,Autoservicio 10-19 CK,non
+LASA 20-49 CK Sergipe,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK Sergipe,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Sergipe,Autoservicio 5-9 CK,non
+Farma PAGUE MENOS Sergipe,Farmacia,chain
+Farma EXTRA DROGARIA Sergipe,Farmacia,chain
+Farma GBARBOSA FARMA Sergipe,Farmacia,chain
+COSMETICO CENTER Perf Sergipe,Perfumeria,chain
+Farma DROGA RAIA Resto da BA,Farmacia,chain
+Regmet Salvador 2-4 CK DIA%,Autoservicio 2-4 CK,chain
+Regmet Salvador 5-9 CK DIA%,Autoservicio 5-9 CK,chain
+Regmet Recife Farmacia  DROGARIA SÇO PAULO,Farma,chain
+Farma DROGASIL Regmet Recife,Farma,chain
+Farma DROGARIA SÇO PAULO Resto PE,Farma,chain
+AMEX 5-9 CK Resto PE,Autoservicio 5-9 CK,chain
+AMEX 2-4 CK Regmet Salvador,Autoservicio 2-4 CK,chain
+PÇO DE A€éCAR 10-19 CK Sergipe,Autoservicio 10-19 CK,chain
+Farma DROGASIL Sergipe,Farma,chain
+Farma DROGASIL Rio Gde Nte,Farma,chain
+Farma DROGASIL Paraiba,Farma,chain
+Farma DROGASIL Alagoas,Farma,chain
+AMEX 5-9 CK Rio Gde Nte,Autoservicio 5-9 CK,chain
+FRONTEIRAS Perf Regmet Salvador,Perfumeria,chain
+MINUTO PDA 2-4 CK Regmet Recife,Autoservicio 2-4 CK,chain
+EXTRA FµCIL 2-4 CK Regmet Recife,Autoservicio 2-4 CK,chain
+DIA% 2-4 CK Resto da BA,Autoservicio 2-4 CK,chain
+Conv ES,Conveniencia,non
+INDEP 1 CK ES,Autoservicio 1 CK,non
+INDEP 2-4 CK ES,Autoservicio 2-4 CK,non
+INDEP 5-9 CK ES,Autoservicio 5-9 CK,non
+INDEP 10-19 CK ES,Autoservicio 10-19 CK,non
+Trad PQ CC ES,Tradicional Peq CC,non
+Trad MD CC ES,Tradicional Med + Gde CC,non
+Trad PQ SC ES,Tradicional Peq SC,non
+Trad MD SC ES,Tradicional Med + Gde SC,non
+Pad Peq ES,Padar¡a Peq,non
+Pad Med ES,Padar¡a Med,non
+Pad Gde  ES,Padar¡a Gde,non
+BAR PEQ ES,Bar Peq,non
+BAR GDE ES,Bar Gde,non
+Farm Pq INDEP ES,Farmacia Peq,non
+Farm MD INDEP ES,Farmacia Med + Gde,non
+Perf PQ INDEP ES,Perfumeria Peq + Gde,non
+EXTRABOM 5-9 CK ES,Autoservicio 5-9 CK,non
+EXTRABOM 10-19 CK ES,Autoservicio 10-19 CK,non
+EPA 10-19 CK ES,Autoservicio 10-19 CK,non
+EPA 20-49 CK ES,Autoservicio 20-49 CK,non
+WALMART 20-49 CK ES,Autoservicio 20-49 CK,non
+LASA 5-9 CK ES,Autoservicio 5-9 CK,non
+LASA 10-19 CK ES,Autoservicio 10-19 CK,non
+LASA 20-49 CK ES,Autoservicio 20-49 CK,non
+AMEX 2-4 CK ES,Autoservicio 2-4 CK,non
+AMEX 5-9 CK ES,Autoservicio 5-9 CK,chain
+Farma PACHECO ES,Farmacia,chain
+Farma PAGUE MENOS ES,Farmacia,chain
+Farma DROGASIL ES,Farmacia,chain
+Conv Int MG,Conveniencia,non
+INDEP 1 CK Int MG,Autoservicio 1 CK,non
+INDEP 2-4 CK Int MG,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Int MG,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Int MG,Autoservicio 10-19 CK,non
+Farm Pq INDEP Int MG,Farmacia Peq,non
+Farm MD INDEP Int MG,Farmacia Med,non
+Farm GD INDEP Int MG,Farmacia Gde,non
+DEM CAD 1 CK Int MG,Autoservicio 1 CK,non
+DEM CAD 2-4 CK Int MG,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Int MG,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Int MG,Autoservicio 10-19 CK,non
+CARREFOUR 50+ CK Int MG,Autoservicio 50+CK,chain
+EPA 10-19 CK Int MG,Autoservicio 10-19 CK,non
+EPA 20-49 CK Int MG,Autoservicio 20-49 CK,non
+BRETAS 5-9 CK Int MG,Autoservicio 5-9 CK,non
+BRETAS 10-19 CK Int MG,Autoservicio 10-19 CK,non
+BRETAS 20-49 CK Int MG,Autoservicio 20-49 CK,non
+BAHAMAS 2-4 CK Int MG,Autoservicio 2-4 CK,non
+BAHAMAS 5-9 CK Int MG,Autoservicio 5-9 CK,non
+BAHAMAS 10-19 CK Int MG,Autoservicio 10-19 CK,non
+BAHAMAS 20-49 CK Int MG,Autoservicio 20-49 CK,non
+ARAUJO 5-9 CK Int MG,Autoservicio 5-9 CK,non
+ARAUJO 10-19 CK Int MG,Autoservicio 10-19 CK,non
+ARAUJO 20-49 CK Int MG,Autoservicio 20-49 CK,non
+WALMART 20-49 CK Int MG,Autoservicio 20-49 CK,non
+BH 5-9 CK Int MG,Autoservicio 5-9 CK,chain
+BH 10-19 CK Int MG,Autoservicio 10-19 CK,chain
+ABC 5-9 CK Int MG,Autoservicio 5-9 CK,non
+ABC 10-19 CK Int MG,Autoservicio 10-19 CK,non
+ABC 20-49 CK Int MG,Autoservicio 20-49 CK,non
+LASA 1 CK Int MG,Autoservicio 1 CK,chain
+LASA 2-4 CK Int MG,Autoservicio 2-4 CK,non
+LASA 5-9 CK Int MG,Autoservicio 5-9 CK,non
+LASA 10-19 CK Int MG,Autoservicio 10-19 CK,non
+LASA 20-49 CK Int MG,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK Int MG,Autoservicio 20-49 CK,non
+Farma DROGAO SUPER Int MG,Farmacia,chain
+Farma DROGA RAIA Int MG,Farmacia,chain
+Farma DROGASIL Int MG,Farmacia,chain
+Farma PACHECO Int MG,Farmacia,chain
+Farma ARAUJO Int MG,Farmacia,chain
+Farma EXTRA DROGARIA Int MG,Farmacia,chain
+Farma PAGUE MENOS Int MG,Farmacia,chain
+Farma DEMAIS CADEIAS MED Int MG,Farmacia Med,non
+Farma DEM CAD GDE Int MG,Farmacia Gde,non
+Conv Regmet BH,Conveniencia,non
+INDEP 1 CK Regmet BH,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet BH,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+Trad PQ CC Regmet BH,Tradicional Peq CC,non
+Trad MD CC Regmet BH,Tradicional Med + Gde CC,non
+Trad PQ SC Regmet BH,Tradicional Peq SC,non
+Trad MD SC Regmet BH,Tradicional Med + Gde SC,non
+Pad Peq Regmet BH,Padar¡a Peq,non
+Pad Med Regmet BH,Padar¡a Med,non
+Pad Gde  Regmet BH,Padar¡a Gde,non
+BAR PEQ Regmet BH,Bar Peq,non
+BAR GDE Regmet BH,Bar Gde,non
+Farm Pq INDEP Regmet BH,Farmacia Peq,non
+Farm MD INDEP Regmet BH,Farmacia Med + Gde,non
+Perf PQ INDEP Regmet BH,Perfumeria Peq + Gde,non
+SUPERNOSSO 2-4 CK Regmet BH,Autoservicio 2-4 CK,chain
+SUPERNOSSO 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+SUPERNOSSO 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+BH 2-4 CK Regmet BH,Autoservicio 2-4 CK,non
+BH 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+BH 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+BH 20-49 CK Regmet BH,Autoservicio 20-49 CK,chain
+DEM CAD 2-4 CK Regmet BH,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Regmet BH,Autoservicio 50+CK,chain
+WALMART 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+CHAMPION 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+CHAMPION 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+CHAMPION 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Regmet BH,Autoservicio 50+CK,chain
+EPA 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+EPA 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+EPA 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+LASA 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+LASA 10-19 CK Regmet BH,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+LASA 50+ CK Regmet BH,Autoservicio 50+CK,chain
+BRETAS 20-49 CK Regmet BH,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Regmet BH,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+DIA 2-4 CK Regmet BH,Autoservicio 2-4 CK,non
+DIA 5-9 CK Regmet BH,Autoservicio 5-9 CK,non
+Farma DROGA RAIA Regmet BH,Farmacia,chain
+Farma ARAUJO Regmet BH,Farmacia,chain
+Farma PAGUE MENOS Regmet BH,Farmacia,chain
+Farma PACHECO Regmet BH,Farmacia,chain
+Farma EXTRA DROGARIA Regmet BH,Farmacia,chain
+Farma DEM CAD GDE Regmet BH,Farma Gde,non
+LOJAS REDE Perf Regmet BH,Perfumeria,chain
+Conv Int RJ,Conveniencia,non
+INDEP 1 CK Int RJ,Autoservicio 1 CK,non
+INDEP 2-4 CK Int RJ,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+Farm Pq INDEP Int RJ,Farmacia Peq,non
+Farm MD INDEP Int RJ,Farmacia Med,non
+Farm GD INDEP Int RJ,Farmacia Gde,non
+FLORESTA FACIL 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+FLORESTA FACIL 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+FLORESTA FACIL 20-49 CK Int RJ,Autoservicio 20-49 CK,non
+GUANABARA 20-49 CK Int RJ,Autoservicio 20-49 CK,non
+WALMART 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+WALMART 20-49 CK Int RJ,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+EXTRA PERTO 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+LASA 2-4 CK Int RJ,Autoservicio 2-4 CK,non
+LASA 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+LASA 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+LASA 20-49 CK Int RJ,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Int RJ,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Int RJ,Autoservicio 5-9 CK,non
+AMEX 10-19 CK Int RJ,Autoservicio 10-19 CK,chain
+EXTRA 10-19 CK Int RJ,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Int RJ,Autoservicio 20-49 CK,non
+Farma PACHECO Int RJ,Farmacia,chain
+Farma EXTRA DROGARIA Int RJ,Farmacia,chain
+Farma PAGUE MENOS Int RJ,Farmacia,chain
+Farma DROGA RAIA Int RJ,Farmacia,chain
+Farma TAMOIO Int RJ,Farmacia,chain
+Trad PQ CC Int MG TC234,Tradicional Peq CC,non
+Trad MD CC Int MG TC234,Tradicional Med CC,non
+Trad GD CC Int MG TC234,Tradicional Gde CC,non
+Trad PQ SC Int MG TC234,Tradicional Peq SC,non
+Trad MD SC Int MG TC234,Tradicional Med + Gde SC,non
+Pad Peq Int MG TC234,Padar¡a Peq,non
+Pad Med Int MG TC234,Padar¡a Med,non
+Pad Gde  Int MG TC234,Padar¡a Gde,non
+BAR PEQ Int MG TC234,Bar Peq,non
+BAR GDE Int MG TC234,Bar Gde,non
+Perf PQ INDEP Int MG TC234,Perfumeria Peq,non
+Perf GD INDEP Int MG TC234,Perfumeria Gde,non
+Trad PQ CC Int MG TC>5,Tradicional Peq CC,non
+Trad MD CC Int MG TC>5,Tradicional Med + Gde CC,non
+Trad PQ SC Int MG TC>5,Tradicional Peq SC,non
+Trad MD SC Int MG TC>5,Tradicional Med + Gde SC,non
+Pad Peq Int MG TC>5,Padar¡a Peq,non
+Pad Med Int MG TC>5,Padar¡a Med,non
+Pad Gde  Int MG TC>5,Padar¡a Gde,non
+BAR PEQ Int MG TC>5,Bar Peq,non
+BAR GDE Int MG TC>5,Bar Gde,non
+Perf PQ INDEP Int MG TC>5,Perfumeria Peq + Gde,non
+Trad PQ CC Int RJ TC234,Tradicional Peq CC,non
+Trad MD CC Int RJ TC234,Tradicional Med + Gde CC,non
+Trad PQ SC Int RJ TC234,Tradicional Peq SC,non
+Trad MD SC Int RJ TC234,Tradicional Med + Gde SC,non
+Pad Peq Int RJ TC234,Padar¡a Peq,non
+Pad Med Int RJ TC234,Padar¡a Med,non
+Pad Gde  Int RJ TC234,Padar¡a Gde,non
+BAR PEQ Int RJ TC234,Bar Peq,non
+BAR GDE Int RJ TC234,Bar Gde,non
+Perf PQ INDEP Int RJ TC234,Perfumeria Peq,non
+Trad PQ CC Int RJ TC>5,Tradicional Peq CC,non
+Trad MD CC Int RJ TC>5,Tradicional Med + Gde CC,non
+Trad PQ SC Int RJ TC>5,Tradicional Peq SC,non
+Trad MD SC Int RJ TC>5,Tradicional Med + Gde SC,non
+Pad Peq Int RJ TC>5,Padar¡a Peq,non
+Pad Med Int RJ TC>5,Padar¡a Med,non
+Pad Gde  Int RJ TC>5,Padar¡a Gde,non
+BAR PEQ Int RJ TC>5,Bar Peq,non
+BAR GDE Int RJ TC>5,Bar Gde,non
+Perf PQ INDEP Int RJ TC>5,Perfumeria Peq + Gde,non
+DEM CAD 2-4 CK ES,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK ES,Autoservicio 5-9 CK,non
+Farma DROGARIA SÇO PAULO Int MG,Farmacia,chain
+DIA% 2-4 CK Int MG,Autoservicio 2-4 CK,chain
+DIA% 5-9 CK Int MG,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Int MG,Autoservicio 10-19 CK,chain
+Farma DROGASMIL Int MG,Farma,chain
+AMEX 5-9 CK Int MG,Autoservicio 5-9 CK,chain
+LOJAS REDE Perf Int MG,Perfumeria,chain
+INDEP + DEMAIS CAD Conv µrea 3,Conveniencia,non
+INDEP 1 CK µrea 3,Autoservicio 1 CK,non
+INDEP 2-4 CK µrea 3,Autoservicio 2-4 CK,non
+INDEP 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+INDEP 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+INDEP 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+Trad PQ CC µrea 3,Tradicional Peq CC,non
+Trad MD CC µrea 3,Tradicional Med + Gde CC,non
+Trad PQ SC µrea 3,Tradicional Peq SC,non
+Trad MD SC µrea 3,Tradicional Med + Gde SC,non
+Pad Peq µrea 3,Padar¡a Peq,non
+Pad Med µrea 3,Padar¡a Med,non
+Pad Gde  µrea 3,Padar¡a Gde,non
+Bar Peq Baix Fluminense,Bar Peq,non
+Bar Gde Baix Fluminense,Bar Gde,non
+Bar Peq Campo Gde,Bar Peq,non
+Bar Gde Campo Gde,Bar Gde,non
+Bar Peq Centro RJ,Bar Peq,non
+Bar Gde Centro RJ,Bar Gde,non
+Bar Peq Iraja+Port+Nit+SG,Bar Peq,non
+Bar Gde Iraja+Port+Nit+SG,Bar Gde,non
+Farm Pq INDEP µrea 3,Farmacia Peq,non
+Farm MD INDEP µrea 3,Farmacia Med,non
+Farm GD INDEP µrea 3,Farmacia Gde,non
+Perf PQ INDEP µrea 3,Perfumeria Peq,non
+Perf GD INDEP µrea 3,Perfumeria Gde,non
+DEM CAD 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+EXTRA 50+ CK µrea 3,Autoservicio 50+CK,chain
+CARREFOUR 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK µrea 3,Autoservicio 50+CK,chain
+EXTRA PERTO 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+EXTRA PERTO 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+WALMART  20-49 CK µrea 3,Autoservicio 20-49 CK,non
+MUNDIAL 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+MUNDIAL 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+LASA 1 CK µrea 3,Autoservicio 1 CK,chain
+LASA 2-4 CK µrea 3,Autoservicio 2-4 CK,non
+LASA 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+LASA 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+LASA 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+LASA 50+ CK µrea 3,Autoservicio 50+CK,chain
+GUANABARA 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+GUANABARA 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+GUANABARA 50+ CK µrea 3,Autoservicio 50+CK,chain
+PREZUNIC 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+PREZUNIC 20-49 CK µrea 3,Autoservicio 20-49 CK,non
+AMEX 1 CK µrea 3,Autoservicio 1 CK,chain
+AMEX 2-4 CK µrea 3,Autoservicio 2-4 CK,non
+AMEX 5-9 CK µrea 3,Autoservicio 5-9 CK,non
+AMEX 10-19 CK µrea 3,Autoservicio 10-19 CK,non
+Farma PAGUE MENOS µrea 3,Farmacia,chain
+Farma DROGA RAIA µrea 3,Farmacia,chain
+Farma PACHECO µrea 3,Farmacia,chain
+Farma DROGASMIL µrea 3,Farmacia,chain
+Farma FARMALIFE µrea 3,Farmacia,chain
+Farma DROGARIA PDA µrea 3,Farmacia,chain
+Farma A NOSSA DROGARIA µrea 3,Farmacia,chain
+Farma EXTRA DROGARIA µrea 3,Farmacia,chain
+Farma DROGARIA SÇO PAULO µrea 3,Farmacia,chain
+Farma EXTRA PERTO µrea 3,Farmacia,chain
+Farma TAMOIO FARMA µrea 3,Farmacia,chain
+Farma DEM CAD GDE µrea 3,Farmacia Med + Gde,non
+MONAMIE Perf µrea 3,Perfumeria,chain
+AM PM Conv µrea 3,Conveniencia,chain
+EXPRESS SELECT SHELL Conv µrea 3,Conveniencia,chain
+BR MANIA Conv µrea 3,Conveniencia,chain
+PET SHOP PEQ  (FUNC<=3),Pet Shop Peq,non
+PET SHOP GDE  (FUNC>3),Pet Shop Gde,non
+PET SHOP + CLINICA PEQ  (FUNC<=5),Pet Shop Peq,non
+PET SHOP + CLINICA GDE  (FUNC>=5),Pet Shop Gde,non
+INDEP Conv Mun de SP,Conveniencia,non
+INDEP 1 CK Mun de SP,Autoservicio 1 CK,non
+INDEP 2-4 CK Mun de SP,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+Trad PQ CC Mun de SP,Tradicional Peq CC,non
+Trad MD CC Mun de SP,Tradicional Med + Gde CC,non
+Trad PQ SC Mun de SP,Tradicional Peq SC,non
+Trad MD SC Mun de SP,Tradicional Med + Gde SC,non
+Pad Peq Mun de SP,Padar¡a Peq,non
+Pad Med Mun de SP,Padar¡a Med,non
+Pad Gde  Mun de SP,Padar¡a Gde,non
+Bar Peq Mun de SP,Bar Peq,non
+Bar Gde Mun de SP,Bar Gde,non
+Farm Pq INDEP Mun de SP,Farmacia Peq,non
+Farm MD INDEP Mun de SP,Farmacia Med + Gde,non
+Perf PQ INDEP Mun de SP,Perfumeria Peq,non
+Perf GD INDEP Mun de SP,Perfumeria Gde,non
+DEM CAD 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+EXTRA 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Mun de SP,Autoservicio 50+CK,chain
+WALMART 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+WALMART 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+CHAMPION 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+CHAMPION 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+CHAMPION 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Mun de SP,Autoservicio 50+CK,chain
+DIA% 2-4 CK Mun de SP,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+SONDA 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+SONDA 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+SONDA 50+ CK Mun de SP,Autoservicio 50+CK,chain
+TODO DIA 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+LASA 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+LASA 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+LASA 20-49 CK Mun de SP,Autoservicio 20-49 CK,non
+EXTRA PERTO 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Mun de SP,Autoservicio 10-19 CK,non
+EXTRA FµCIL 2-4 CK Mun de SP,Autoservicio 2-4 CK,non
+EXTRA FµCIL 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+AMEX 2-4 CK Mun de SP,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Mun de SP,Autoservicio 5-9 CK,non
+Farma DROGASIL Mun de SP,Farmacia,chain
+Farma PAGUE MENOS Mun de SP,Farmacia,chain
+Farma DROGA RAIA Mun de SP,Farmacia,chain
+Farma DROGARIA SÇO PAULO Mun de SP,Farmacia,chain
+Farma PACHECO Mun de SP,Farmacia,chain
+Farma DROGARIA PDA Mun de SP,Farmacia,chain
+Farma EXTRA DROGARIA  Mun de SP,Farmacia,chain
+Farma DAVO Mun de SP,Farmacia,chain
+IKESAKI Perf Mun de SP,Perfumeria,chain
+PERFUMARIA 2000 Perf Mun de SP,Perfumeria,chain
+ESSO - HUNGRY TIGER Conv Mun de SP,Conveniencia,chain
+BR MANIA Conv Mun de SP,Conveniencia,chain
+EXPRESS SELECT SHELL Conv Mun de SP,Conveniencia,chain
+AM PM Conv Mun de SP,Conveniencia,chain
+INDEP Conv Demais Gde SP,Conveniencia,non
+INDEP 1 CK Demais Gde SP,Autoservicio 1 CK,non
+INDEP 2-4 CK Demais Gde SP,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+Trad PQ CC Demais Gde SP,Tradicional Peq CC,non
+Trad MD CC Demais Gde SP,Tradicional Med + Gde CC,non
+Trad PQ SC Demais Gde SP,Tradicional Peq SC,non
+Trad MD SC Demais Gde SP,Tradicional Med + Gde SC,non
+Pad Med Demais Gde SP,Padar¡a Peq + Med,non
+Pad Gde  Demais Gde SP,Padar¡a Gde,non
+Bar Peq Demais Gde SP,Bar Peq,non
+Bar Gde Demais Gde SP,Bar Gde,non
+Farm Pq INDEP Demais Gde SP,Farmacia Peq,non
+Farm MD INDEP Demais Gde SP,Farmacia Med,non
+Farm GD INDEP Demais Gde SP,Farmacia Gde,non
+Perf PQ INDEP Demais Gde SP,Perfumeria Peq,non
+Perf GD INDEP Demais Gde SP,Perfumeria Gde,non
+DEM CAD 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+EXTRA 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Demais Gde SP,Autoservicio 50+CK,chain
+WALMART 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+WALMART 50+ CK Demais Gde SP,Autoservicio 50+CK,chain
+CHAMPION 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Demais Gde SP,Autoservicio 50+CK,chain
+COOPER RHODIA 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+COOPER RHODIA 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+COOPER RHODIA 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+DIA% 2-4 CK Demais Gde SP,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+SONDA 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+TODO DIA 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+TODO DIA 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+LASA 2-4 CK Demais Gde SP,Autoservicio 2-4 CK,non
+LASA 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+LASA 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+LASA 20-49 CK Demais Gde SP,Autoservicio 20-49 CK,non
+EXTRA PERTO 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Demais Gde SP,Autoservicio 10-19 CK,non
+EXTRA FµCIL 2-4 CK Demais Gde SP,Autoservicio 2-4 CK,non
+EXTRA FµCIL 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+AMEX 5-9 CK Demais Gde SP,Autoservicio 5-9 CK,non
+Farma DROGASIL Demais Gde SP,Farmacia,chain
+Farma PAGUE MENOS Demais Gde SP,Farmacia,chain
+Farma DROGA RAIA Demais Gde SP,Farmacia,chain
+Farma DROGARIA SÇO PAULO Demais Gde SP,Farmacia,chain
+Farma EXTRA DROGARIA  Demais Gde SP,Farmacia,chain
+Farma DAVO Demais Gde SP,Farmacia,chain
+FIKBELLA Perf Demais Gde SP,Perfumeria,chain
+IKESAKI Perf Demais Gde SP,Perfumeria,chain
+PERFUMARIA 2000 Perf Demais Gde SP,Perfumeria,chain
+EXPRESS SELECT SHELL Conv Demais Gde SP,Conveniencia,chain
+AM PM Conv Demais Gde SP,Conveniencia,non
+Farma CATARINENSE Mun de SP,Farmacia,chain
+PET SHOP PEQ  (FUNC<=3),Pet Shop Peq,non
+PET SHOP GDE  (FUNC>3),Pet Shop Gde,non
+PET SHOP + CLINICA PEQ  (FUNC<=5),Pet Shop Peq,non
+PET SHOP + CLINICA GDE  (FUNC>=5),Pet Shop Gde,non
+CLINICA,Pet Shop,non
+PET CENTER MARGINAL,Pet Shop,non
+MINUTO PDA 5-9 CK MUN DE SP,Autoservicio 5-9 CK,chain
+MINUTO PDA 2-4 CK Mun de SP,Autoservicio 2-4 CK,chain
+MINUTO PDA 2-4 CK Demais Gde SP,Autoservicio 2-4 CK,chain
+CARREFOUR EXPRESS 2-4 CK Mun de SP,Autoservicio 2-4 CK,chain
+Conv Reg Bauru-Marilia-Prud,Conveniencia,non
+INDEP 1 CK Reg Bauru-Marilia-Prud,Autoservicio 1 CK,non
+INDEP 2-4 CK Reg Bauru-Marilia-Prud,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Reg Bauru-Marilia-Prud,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,non
+INDEP 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+Trad PQ CC Reg Bauru-Marilia-Prud,Tradicional Peq CC,non
+Trad MD CC Reg Bauru-Marilia-Prud,Tradicional Med + Gde CC,non
+Trad PQ SC Reg Bauru-Marilia-Prud,Tradicional Peq + Med + Gde SC,non
+Pad Peq Reg Bauru-Marilia-Prud,Padar¡a Peq,non
+Pad Med Reg Bauru-Marilia-Prud,Padar¡a Med,non
+Pad Gde  Reg Bauru-Marilia-Prud,Padar¡a Gde,non
+Bar Peq Reg Bauru-Marilia-Prud,Bar Peq,non
+Bar Gde Reg Bauru-Marilia-Prud,Bar Gde,non
+Farm Pq INDEP Reg Bauru-Marilia-Prud,Farmacia Peq,non
+Farm MD INDEP Reg Bauru-Marilia-Prud,Farmacia Med,non
+Farm GD INDEP Reg Bauru-Marilia-Prud,Farmacia Gde,non
+Perf PQ INDEP Reg Bauru-Marilia-Prud,Perfumeria Peq,non
+Perf GD INDEP Reg Bauru-Marilia-Prud,Perfumeria Gde,non
+PÇO DE A€éCAR 5-9 CK Reg Bauru-Marilia-Prud,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+WALMART 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+DIA% 5-9 CK Reg Bauru-Marilia-Prud,Autoservicio 5-9 CK,non
+PAULISTÇO 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,non
+LASA 5-9 CK Reg Bauru-Marilia-Prud,Autoservicio 5-9 CK,non
+LASA 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,non
+LASA 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Reg Bauru-Marilia-Prud,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Reg Bauru-Marilia-Prud,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,non
+Farma DROGAL Reg Bauru-Marilia-Prud,Farmacia,chain
+Farma DROGASIL Reg Bauru-Marilia-Prud,Farmacia,chain
+Farma DROGA RAIA Reg Bauru-Marilia-Prud,Farmacia,chain
+Farma DROGARIA SÇO PAULO Reg Bauru-Marilia-Prud,Farmacia,chain
+Farma PAGUE MENOS Reg Bauru-Marilia-Prud,Farmacia,chain
+Farma NISSEI Reg Bauru-Marilia-Prud,Farmacia,chain
+Conv Reg. Campinas,Conveniencia,non
+INDEP 1 CK Reg. Campinas,Autoservicio 1 CK,non
+INDEP 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+INDEP 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+Farm Pq INDEP Reg. Campinas,Farmacia Peq,non
+Farm MD INDEP Reg. Campinas,Farmacia Med,non
+Farm GD INDEP Reg. Campinas,Farmacia Gde,non
+WALMART 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+EXTRA 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Reg. Campinas,Autoservicio 50+CK,chain
+CHAMPION 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+CHAMPION 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Reg. Campinas,Autoservicio 50+CK,chain
+COOPER RHODIA 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+DIA% 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+PAULISTÇO 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+PAULISTÇO 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+PAULISTÇO 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+SEMPRE VALE 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+SEMPRE VALE 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+TODO DIA 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+EXTRA FµCIL 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+EXTRA FµCIL 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,chain
+EXTRA PERTO 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+AMEX 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+LASA 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+LASA 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+LASA 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+LASA 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Reg. Campinas,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Reg. Campinas,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Reg. Campinas,Autoservicio 20-49 CK,non
+Farma DROGAL Reg. Campinas,Farmacia,chain
+Farma DROGÇO SUPER Reg. Campinas,Farmacia,chain
+Farma EXTRA PERTO Reg. Campinas,Farmacia,chain
+Farma DROGASIL Reg. Campinas,Farmacia,chain
+Farma DROGA RAIA Reg. Campinas,Farmacia,chain
+Farma DROGARIA SÇO PAULO Reg. Campinas,Farmacia,chain
+Farma EXTRA DROGARIA Reg. Campinas,Farmacia,chain
+Farma PAGUE MENOS Reg. Campinas,Farmacia,chain
+Conv Litoral,Conveniencia,non
+INDEP 1 CK Litoral,Autoservicio 1 CK,non
+INDEP 2-4 CK Litoral,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Litoral,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Litoral,Autoservicio 10-19 CK,non
+Trad PQ CC Litoral,Tradicional Peq CC,non
+Trad MD CC Litoral,Tradicional Med + Gde CC,non
+Trad MD SC Litoral,Tradicional Med + Gde SC,non
+Pad Peq Litoral,Padar¡a Peq + Med,non
+Pad Gde  Litoral,Padar¡a Gde,non
+Bar Peq Litoral,Bar Peq,non
+Bar Gde Litoral,Bar Gde,non
+Farm Pq INDEP Litoral,Farmacia Peq,non
+Farm MD INDEP Litoral,Farmacia Med + Gde,non
+Perf PQ INDEP Litoral,Perfumeria Peq + Gde,non
+EXTRA PERTO 5-9 CK Litoral,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Litoral,Autoservicio 10-19 CK,non
+EXTRA PERTO 20-49 CK Litoral,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK Litoral,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Litoral,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Litoral,Autoservicio 20-49 CK,non
+EXTRA 10-19 CK Litoral,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Litoral,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Litoral,Autoservicio 50+CK,chain
+CARREFOUR 20-49 CK Litoral,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Litoral,Autoservicio 50+CK,chain
+DIA% 2-4 CK Litoral,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Litoral,Autoservicio 5-9 CK,non
+CHAMPION 10-19 CK Litoral,Autoservicio 10-19 CK,non
+EXTRA FµCIL 2-4 CK Litoral,Autoservicio 2-4 CK,non
+EXTRA FµCIL 5-9 CK Litoral,Autoservicio 5-9 CK,non
+LASA 2-4 CK Litoral,Autoservicio 2-4 CK,non
+LASA 5-9 CK Litoral,Autoservicio 5-9 CK,non
+LASA 10-19 CK Litoral,Autoservicio 10-19 CK,non
+LASA 20-49 CK Litoral,Autoservicio 20-49 CK,non
+AMEX 5-9 CK Litoral,Autoservicio 5-9 CK,non
+SONDA 20-49 CK Litoral,Autoservicio 20-49 CK,non
+Farma DROGÇO SUPER Litoral,Farmacia,chain
+Farma CATARINENSE Litoral,Farmacia,chain
+Farma DROGASIL Litoral,Farmacia,chain
+Farma DROGA RAIA Litoral,Farmacia,chain
+Farma DROGARIA SÇO PAULO Litoral,Farmacia,chain
+Farma PAGUE MENOS Litoral,Farmacia,chain
+Farma EXTRA DROGARIA Litoral,Farmacia,chain
+Conv SJRP/Ara‡atuba,Conveniencia,non
+INDEP 1 CK SJRP/Ara‡atuba,Autoservicio 1 CK,non
+INDEP 2-4 CK SJRP/Ara‡atuba,Autoservicio 2-4 CK,non
+INDEP 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+INDEP 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,non
+Trad PQ CC SJRP/Ara‡atuba,Tradicional Peq CC,non
+Trad MD CC SJRP/Ara‡atuba,Tradicional Med + Gde CC,non
+Trad PQ SC SJRP/Ara‡atuba,Tradicional Peq + Med + Gde SC,non
+Pad Med SJRP/Ara‡atuba,Padar¡a Peq + Med + Gde,non
+Bar Peq SJRP/Ara‡atuba,Bar Peq,non
+Bar Gde SJRP/Ara‡atuba,Bar Gde,non
+Farm Pq INDEP SJRP/Ara‡atuba,Farmacia Peq,non
+Farm MD INDEP SJRP/Ara‡atuba,Farmacia Med + Gde,non
+Perf PQ INDEP SJRP/Ara‡atuba,Perfumeria Peq + Gde,non
+PÇO DE A€éCAR 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+WALMART 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK SJRP/Ara‡atuba,Autoservicio 50+CK,chain
+CIDADE CAN€ÇO 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,non
+CIDADE CAN€ÇO 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+EXTRA PERTO 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,chain
+LASA 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+LASA 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,non
+LASA 20-49 CK SJRP/Ara‡atuba,Autoservicio 20-49 CK,non
+DIA% 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+DEM CAD 2-4 CK SJRP/Ara‡atuba,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK SJRP/Ara‡atuba,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK SJRP/Ara‡atuba,Autoservicio 10-19 CK,non
+Farma DROGAO SUPER SJRP/Ara‡atuba,Farmacia,chain
+Farma PAGUE MENOS SJRP/Ara‡atuba,Farmacia,chain
+Farma DROGASIL SJRP/Ara‡atuba,Farmacia,chain
+Farma DROGA RAIA SJRP/Ara‡atuba,Farmacia,chain
+Farma DROGARIA SÇO PAULO SJRP/Ara‡atuba,Farmacia,chain
+Farma EXTRA DROGARIA SJRP/Ara‡atuba,Farmacia,chain
+Conv Sorocaba,Conveniencia,non
+INDEP 1 CK Sorocaba,Autoservicio 1 CK,non
+INDEP 2-4 CK Sorocaba,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+Trad PQ CC Sorocaba,Tradicional Peq CC,non
+Trad MD CC Sorocaba,Tradicional Med + Gde CC,non
+Trad PQ SC Sorocaba,Tradicional Peq SC,non
+Trad MD SC Sorocaba,Tradicional Med + Gde SC,non
+Pad Peq Sorocaba,Padar¡a Peq,non
+Pad Med Sorocaba,Padar¡a Med,non
+Pad Gde  Sorocaba,Padar¡a Gde,non
+Bar Peq Sorocaba,Bar Peq,non
+Bar Gde Sorocaba,Bar Gde,non
+Farm Pq INDEP Sorocaba,Farmacia Peq,non
+Perf PQ INDEP Sorocaba,Perfumeria Peq + Gde,non
+PÇO DE A€éCAR 5-9 CK Sorocaba,Autoservicio 5-9 CK,chain
+PÇO DE A€éCAR 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+WALMART 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Sorocaba,Autoservicio 50+CK,chain
+EXTRA 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Sorocaba,Autoservicio 50+CK,chain
+CHAMPION 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+COOPER RHODIA 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+COOPER RHODIA 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+DIA% 2-4 CK Sorocaba,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+PAULISTÇO 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+PAULISTÇO 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+EXTRA FµCIL 2-4 CK Sorocaba,Autoservicio 2-4 CK,non
+EXTRA FµCIL 5-9 CK Sorocaba,Autoservicio 5-9 CK,chain
+AMEX 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+LASA 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+LASA 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+LASA 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+SONDA 10-19 CK Sorocaba,Autoservicio 10-19 CK,non
+SONDA 20-49 CK Sorocaba,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Sorocaba,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Sorocaba,Autoservicio 5-9 CK,non
+Farma DROGAL Sorocaba,Farmacia,chain
+Farma DROGASIL Sorocaba,Farmacia,chain
+Farma DROGA RAIA Sorocaba,Farmacia,chain
+Farma DROGARIA SÇO PAULO Sorocaba,Farmacia,chain
+Farma PAGUE MENOS Sorocaba,Farmacia,chain
+Farma EXTRA DROGARIA Sorocaba,Farmacia,chain
+Conv Vale do Para¡ba,Conveniencia,non
+INDEP 1 CK Vale do Para¡ba,Autoservicio 1 CK,non
+INDEP 2-4 CK Vale do Para¡ba,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+INDEP 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+Trad PQ CC Vale do Para¡ba,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Vale do Para¡ba,Tradicional Peq + Med SC,non
+Pad Med Vale do Para¡ba,Padar¡a Peq + Med + Gde,non
+Bar Peq Vale do Para¡ba,Bar Peq,non
+Bar Gde Vale do Para¡ba,Bar Gde,non
+Farm Pq INDEP Vale do Para¡ba,Farmacia Peq,non
+Farm MD INDEP Vale do Para¡ba,Farmacia Med + Gde,non
+Perf PQ INDEP Vale do Para¡ba,Perfumeria Peq + Gde,non
+EXTRA PERTO 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+EXTRA 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Vale do Para¡ba,Autoservicio 50+CK,chain
+CARREFOUR 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Vale do Para¡ba,Autoservicio 50+CK,chain
+DIA% 2-4 CK Vale do Para¡ba,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+WALMART 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+CHAMPION 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+CHAMPION 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+COOPER RHODIA 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+COOPER RHODIA 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+EXTRA FµCIL 2-4 CK Vale do Para¡ba,Autoservicio 2-4 CK,chain
+EXTRA FµCIL 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,chain
+LASA 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+LASA 10-19 CK Vale do Para¡ba,Autoservicio 10-19 CK,non
+LASA 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Vale do Para¡ba,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,non
+SONDA 20-49 CK Vale do Para¡ba,Autoservicio 20-49 CK,non
+Farma DROGASIL Vale do Para¡ba,Farmacia,chain
+Farma DROGA RAIA Vale do Para¡ba,Farmacia,chain
+Farma DROGARIA SÇO PAULO Vale do Para¡ba,Farmacia,chain
+Farma PAGUE MENOS Vale do Para¡ba,Farmacia,chain
+Farma EXTRA DROGARIA Vale do Para¡ba,Farmacia,chain
+Farma DROGARIA PACHECO Vale do Para¡ba,Farmacia,chain
+Farma DROGA QUINZE Vale do Para¡ba,Farmacia,chain
+SUMIRE Perf Vale do Para¡ba,Perfumeria,chain
+Conv Gde SP IBGE,Conveniencia,non
+INDEP 1 CK Gde SP IBGE,Autoservicio 1 CK,non
+INDEP 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,non
+INDEP 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+Trad PQ CC Gde SP IBGE,Tradicional Peq CC,non
+Trad MD CC Gde SP IBGE,Tradicional Med + Gde CC,non
+Trad PQ SC Gde SP IBGE,Tradicional Peq SC,non
+Pad Peq Gde SP IBGE,Padar¡a Peq,non
+Pad Med Gde SP IBGE,Padar¡a Med,non
+Pad Gde  Gde SP IBGE,Padar¡a Gde,non
+Bar Peq Gde SP IBGE,Bar Peq,non
+Bar Gde Gde SP IBGE,Bar Gde,non
+Farm Pq INDEP Gde SP IBGE,Farmacia Peq,non
+Farm MD INDEP Gde SP IBGE,Farmacia Med + Gde,non
+Perf PQ INDEP Gde SP IBGE,Perfumeria Peq + Gde,non
+TODO DIA 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+EXTRA PERTO 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+EXTRA PERTO 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+PÇO DE A€éCAR 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,chain
+PÇO DE A€éCAR 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Gde SP IBGE,Autoservicio 50+CK,chain
+CARREFOUR 50+ CK Gde SP IBGE,Autoservicio 50+CK,chain
+DIA% 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+PAULISTÇO 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+WALMART 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+CHAMPION 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+COOPER RHODIA 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+EXTRA FµCIL 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,non
+LASA 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,non
+LASA 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+LASA 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+LASA 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+SONDA 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+SONDA 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+DEM CAD 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Gde SP IBGE,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Gde SP IBGE,Autoservicio 20-49 CK,non
+Farma DROGASIL Gde SP IBGE,Farmacia,chain
+Farma DROGA RAIA Gde SP IBGE,Farmacia,chain
+Farma DROGARIA SÇO PAULO Gde SP IBGE,Farmacia,chain
+Farma PAGUE MENOS Gde SP IBGE,Farmacia,chain
+Farma EXTRA DROGARIA Gde SP IBGE,Farmacia,chain
+Farma DROGA QUINZE Gde SP IBGE,Farmacia,chain
+Farma DAVO Gde SP IBGE,Farmacia,chain
+FIKBELLA Perf Gde SP IBGE,Perfumeria,chain
+Conv Rib Preto,Conveniencia,non
+INDEP 1 CK Rib Preto,Autoservicio 1 CK,non
+INDEP 2-4 CK Rib Preto,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+Trad PQ CC Rib Preto,Tradicional Peq CC,non
+Trad MD CC Rib Preto,Tradicional Med + Gde CC,non
+Trad PQ SC Rib Preto,Tradicional Peq SC,non
+Trad MD SC Rib Preto,Tradicional Med + Gde SC,non
+Pad Peq Rib Preto,Padar¡a Peq,non
+Pad Med Rib Preto,Padar¡a Med,non
+Pad Gde  Rib Preto,Padar¡a Gde,non
+Bar Peq Rib Preto,Bar Peq,non
+Bar Gde Rib Preto,Bar Gde,non
+Farm Pq INDEP Rib Preto,Farmacia Peq + Med,non
+Farm GD INDEP Rib Preto,Farmacia Gde,non
+Perf PQ INDEP Rib Preto,Perfumeria Peq,non
+SEMPRE VALE 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+SEMPRE VALE 20-49 CK Rib Preto,Autoservicio 20-49 CK,chain
+PÇO DE A€éCAR 5-9 CK Rib Preto,Autoservicio 5-9 CK,chain
+PÇO DE A€éCAR 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+WALMART 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Rib Preto,Autoservicio 50+CK,chain
+CHAMPION 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+SAVEGNAGO 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+SAVEGNAGO 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+SAVEGNAGO 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+PAULISTÇO 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Rib Preto,Autoservicio 2-4 CK,non
+EXTRA PERTO 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+EXTRA PERTO 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+LASA 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+LASA 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+LASA 20-49 CK Rib Preto,Autoservicio 20-49 CK,non
+DIA% 2-4 CK Rib Preto,Autoservicio 2-4 CK,non
+DIA% 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+DEM CAD 5-9 CK Rib Preto,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Rib Preto,Autoservicio 10-19 CK,non
+Farma DROGAL  Rib Preto,Farmacia,chain
+Farma DROGAO SUPER Rib Preto,Farmacia,chain
+Farma PAGUE MENOS Rib Preto,Farmacia,chain
+Farma DROGASIL Rib Preto,Farmacia,chain
+Farma DROGA RAIA Rib Preto,Farmacia,chain
+Farma DROGARIA SÇO PAULO Rib Preto,Farmacia,chain
+Farma EXTRA DROGARIA Rib Preto,Farmacia,chain
+Farma DROGAFARMA Rib Preto,Farmacia,chain
+DEM CAD Perf Rib Preto,Perfumeria,non
+Conv Int PR,Conveniencia,non
+INDEP 1 CK Int PR,Autoservicio 1 CK,non
+INDEP 2-4 CK Int PR,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Int PR,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Int PR,Autoservicio 10-19 CK,non
+INDEP 20-49 CK Int PR,Autoservicio 20-49 CK,non
+Farm Pq INDEP Int PR,Farmacia Peq,non
+Farm MD INDEP Int PR,Farmacia Med,non
+Farm GD INDEP Int PR,Farmacia Gde,non
+DEM CAD 1 CK Int PR,Autoservicio 1 CK,non
+DEM CAD 2-4 CK Int PR,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Int PR,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Int PR,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Int PR,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Int PR,Autoservicio 50+CK,chain
+CONDOR 5-9 CK Int PR,Autoservicio 5-9 CK,non
+CONDOR 10-19 CK Int PR,Autoservicio 10-19 CK,non
+CONDOR 20-49 CK Int PR,Autoservicio 20-49 CK,non
+MERCADORAMA 10-19 CK Int PR,Autoservicio 10-19 CK,non
+BIG 20-49 CK Int PR,Autoservicio 20-49 CK,non
+LASA 5-9 CK Int PR,Autoservicio 5-9 CK,non
+LASA 10-19 CK Int PR,Autoservicio 10-19 CK,non
+LASA 20-49 CK Int PR,Autoservicio 20-49 CK,non
+AMEX 2-4 CK Int PR,Autoservicio 2-4 CK,non
+AMEX 5-9 CK Int PR,Autoservicio 5-9 CK,chain
+COOP 5-9 CK Int PR,Autoservicio 5-9 CK,non
+CIDADE CAN€ÇO 2-4 CK Int PR,Autoservicio 2-4 CK,non
+CIDADE CAN€ÇO 5-9 CK Int PR,Autoservicio 5-9 CK,non
+CIDADE CAN€ÇO 10-19 CK Int PR,Autoservicio 10-19 CK,non
+CIDADE CAN€ÇO 20-49 CK Int PR,Autoservicio 20-49 CK,non
+Farma CATARINENSE Int PR,Farmacia,chain
+Farma PAGUE MENOS Int PR,Farmacia,chain
+Farma NISSEI  Int PR,Farmacia,chain
+Farma DROGA RAIA Int PR,Farmacia,chain
+Farma DEMAIS CADEIAS MED Int PR,Farmacia Med,non
+Farma DEM CAD GDE Int PR,Farmacia Gde,non
+Trad PQ CC Int PR TC234,Tradicional Peq CC,non
+Trad MD CC Int PR TC234,Tradicional Med + Gde CC,non
+Trad PQ SC Int PR TC234,Tradicional Peq SC,non
+Trad MD SC Int PR TC234,Tradicional Med + Gde SC,non
+Pad Med Int PR TC234,Padar¡a Peq + Med,non
+Pad Gde  Int PR TC234,Padar¡a Gde,non
+Bar Peq Int PR TC234,Bar Peq + Gde,non
+Perf PQ INDEP Int PR TC234,Perfumeria Peq + Gde,non
+Trad PQ CC Int PR TC>5,Tradicional Peq CC,non
+Trad MD CC Int PR TC>5,Tradicional Med + Gde CC,non
+Trad PQ SC Int PR TC>5,Tradicional Peq SC,non
+Trad GD SC Int PR TC>5,Tradicional Med + Gde SC,non
+Pad Peq Int PR TC>5,Padar¡a Peq,non
+Pad Med Int PR TC>5,Padar¡a Med,non
+Pad Gde  Int PR TC>5,Padar¡a Gde,non
+Bar Peq Int PR TC>5,Bar Peq,non
+Bar Gde Int PR TC>5,Bar Gde,non
+Perf PQ INDEP Int PR TC>5,Perfumeria Peq,non
+Perf GD INDEP Int PR TC>5,Perfumeria Gde,non
+Conv Regmet Curitiba,Conveniencia,non
+INDEP 1 CK Regmet Curitiba,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet Curitiba,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+Trad PQ CC Regmet Curitiba,Tradicional Peq CC,non
+Trad MD CC Regmet Curitiba,Tradicional Med + Gde CC,non
+Trad PQ SC Regmet Curitiba,Tradicional Peq SC,non
+Trad MD SC Regmet Curitiba,Tradicional Med + Gde SC,non
+Pad Peq Regmet Curitiba,Padar¡a Peq,non
+Pad Med Regmet Curitiba,Padar¡a Med,non
+Pad Gde  Regmet Curitiba,Padar¡a Gde,non
+Bar Peq Regmet Curitiba,Bar Peq,non
+Bar Gde Regmet Curitiba,Bar Gde,non
+Farm Pq INDEP Regmet Curitiba,Farmacia Peq,non
+Farm MD INDEP Regmet Curitiba,Farmacia Med,non
+Farm GD INDEP Regmet Curitiba,Farmacia Gde,non
+Perf PQ INDEP Regmet Curitiba,Perfumeria Peq,non
+Perf GD INDEP Regmet Curitiba,Perfumeria Gde,non
+ABC 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+DEM CAD 2-4 CK Regmet Curitiba,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+EXTRA 50+ CK Regmet Curitiba,Autoservicio 50+CK,chain
+WALMART 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Regmet Curitiba,Autoservicio 50+CK,chain
+ANGELONI 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+CONDOR 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+CONDOR 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+CONDOR 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+MERCADORAMA 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+MERCADORAMA 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+MERCADORAMA 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+BIG 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+BIG 50+ CK Regmet Curitiba,Autoservicio 50+CK,chain
+LASA 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+LASA 10-19 CK Regmet Curitiba,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet Curitiba,Autoservicio 20-49 CK,non
+AMEX 5-9 CK Regmet Curitiba,Autoservicio 5-9 CK,non
+Farma PAGUE MENOS Regmet Curitiba,Farmacia,chain
+Farma MINERVA Regmet Curitiba,Farmacia,chain
+Farma EXTRA DROGARIA Regmet Curitiba,Farmacia,chain
+Farma DROGA RAIA Regmet Curitiba,Farmacia,chain
+Farma ANGELONI Regmet Curitiba,Farmacia,chain
+Farma CATARINENSE Regmet Curitiba,Farmacia,chain
+Farma NISSEI  Regmet Curitiba,Farmacia,chain
+Farma PANVEL Regmet Curitiba,Farmacia,chain
+Farma DROGARIA POPULAR Regmet Curitiba,Farmacia,chain
+Conv Regmet POA,Conveniencia,non
+INDEP 1 CK Regmet POA,Autoservicio 1 CK,non
+INDEP 2-4 CK Regmet POA,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Regmet POA,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Regmet POA,Autoservicio 10-19 CK,non
+Trad PQ CC Regmet POA,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Regmet POA,Tradicional Peq SC,non
+Trad MD SC Regmet POA,Tradicional Med + Gde SC,non
+Pad Peq Regmet POA,Padar¡a Peq,non
+Pad Med Regmet POA,Padar¡a Med,non
+Pad Gde  Regmet POA,Padar¡a Gde,non
+Bar Peq Regmet POA,Bar Peq,non
+Bar Gde Regmet POA,Bar Gde,non
+Farm Pq INDEP Regmet POA,Farmacia Peq,non
+Farm MD INDEP Regmet POA,Farmacia Med,non
+Farm GD INDEP Regmet POA,Farmacia Gde,non
+Perf PQ INDEP Regmet POA,Perfumeria Peq,non
+Perf GD INDEP Regmet POA,Perfumeria Gde,non
+DEM CAD 2-4 CK Regmet POA,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Regmet POA,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Regmet POA,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK Regmet POA,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Regmet POA,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Regmet POA,Autoservicio 50+CK,chain
+NACIONAL 5-9 CK Regmet POA,Autoservicio 5-9 CK,non
+NACIONAL 10-19 CK Regmet POA,Autoservicio 10-19 CK,non
+NACIONAL 20-49 CK Regmet POA,Autoservicio 20-49 CK,non
+BIG 20-49 CK Regmet POA,Autoservicio 20-49 CK,non
+BIG 50+ CK Regmet POA,Autoservicio 50+CK,chain
+LASA 2-4 CK Regmet POA,Autoservicio 2-4 CK,chain
+LASA 5-9 CK Regmet POA,Autoservicio 5-9 CK,chain
+LASA 10-19 CK Regmet POA,Autoservicio 10-19 CK,non
+LASA 20-49 CK Regmet POA,Autoservicio 20-49 CK,non
+AMEX 5-9 CK Regmet POA,Autoservicio 5-9 CK,non
+DIA 2-4 CK Regmet POA,Autoservicio 2-4 CK,chain
+DIA 5-9 CK Regmet POA,Autoservicio 5-9 CK,non
+Farma PANVEL Regmet POA,Farmacia,chain
+Farma PAGUE MENOS Regmet POA,Farmacia,chain
+Farma CATARINENSE Regmet POA,Farmacia,chain
+Farma DROGA RAIA Regmet POA,Farmacia,chain
+Farma MAIS ECONOMICA Regmet POA,Farmacia,chain
+Conv RS,Conveniencia,non
+INDEP 1 CK RS,Autoservicio 1 CK,non
+INDEP 2-4 CK RS,Autoservicio 2-4 CK,non
+INDEP 5-9 CK RS,Autoservicio 5-9 CK,non
+Farm Pq INDEP RS,Farmacia Peq,non
+Farm MD INDEP RS,Farmacia Med,non
+Farm GD INDEP RS,Farmacia Gde,non
+DEM CAD 5-9 CK RS,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK RS,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK RS,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK RS,Autoservicio 20-49 CK,non
+NACIONAL 5-9 CK RS,Autoservicio 5-9 CK,non
+NACIONAL 10-19 CK RS,Autoservicio 10-19 CK,non
+NACIONAL 20-49 CK RS,Autoservicio 20-49 CK,non
+BIG 20-49 CK RS,Autoservicio 20-49 CK,non
+LASA 5-9 CK RS,Autoservicio 5-9 CK,chain
+LASA 10-19 CK RS,Autoservicio 10-19 CK,non
+DIA 2-4 CK RS,Autoservicio 2-4 CK,chain
+DIA 5-9 CK RS,Autoservicio 5-9 CK,non
+Farma PANVEL RS,Farmacia,chain
+Farma CATARINENSE RS,Farmacia,chain
+Farma PAGUE MENOS RS,Farmacia,chain
+Farma DROGA RAIA RS,Farmacia,chain
+Farma MAIS ECONOMICA RS,Farmacia,chain
+Trad PQ CC RS TC234,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC RS TC234,Tradicional Peq + Med + Gde SC,non
+Pad Peq RS TC234,Padar¡a Peq,non
+Pad Med RS TC234,Padar¡a Med,non
+Pad Gde  RS TC234,Padar¡a Gde,non
+Bar Peq RS TC234,Bar Peq,non
+Bar Gde RS TC234,Bar Gde,non
+Perf PQ INDEP RS TC234,Perfumeria Peq + Gde,non
+Trad PQ CC RS TC>5,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC RS TC>5,Tradicional Peq + Med + Gde SC,non
+Pad Peq RS TC>5,Padar¡a Peq,non
+Pad Med RS TC>5,Padar¡a Med,non
+Pad Gde  RS TC>5,Padar¡a Gde,non
+Bar Peq RS TC>5,Bar Peq,non
+Bar Gde RS TC>5,Bar Gde,non
+Perf PQ INDEP RS TC>5,Perfumeria Peq + Gde,non
+Conv SC,Conveniencia,non
+INDEP 1 CK SC,Autoservicio 1 CK,non
+INDEP 2-4 CK SC,Autoservicio 2-4 CK,non
+INDEP 5-9 CK SC,Autoservicio 5-9 CK,non
+INDEP 10-19 CK SC,Autoservicio 10-19 CK,non
+Trad PQ CC SC,Tradicional Peq CC,non
+Trad MD CC SC,Tradicional Med + Gde CC,non
+Trad PQ SC SC,Tradicional Peq SC,non
+Trad MD SC SC,Tradicional Med + Gde SC,non
+Pad Peq SC,Padar¡a Peq,non
+Pad Med SC,Padar¡a Med,non
+Pad Gde  SC,Padar¡a Gde,non
+Bar Peq SC,Bar Peq,non
+Bar Gde SC,Bar Gde,non
+Farm Pq INDEP SC,Farmacia Peq,non
+Farm MD INDEP SC,Farmacia Med + Gde,non
+Perf PQ INDEP SC,Perfumeria Peq + Gde,non
+GIASSI 10-19 CK SC,Autoservicio 10-19 CK,chain
+GIASSI 20-49 CK SC,Autoservicio 20-49 CK,non
+DEM CAD 1 CK SC,Autoservicio 1 CK,non
+DEM CAD 2-4 CK SC,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK SC,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK SC,Autoservicio 10-19 CK,non
+DEM CAD 20-49 CK SC,Autoservicio 20-49 CK,non
+ANGELONI 10-19 CK SC,Autoservicio 10-19 CK,non
+ANGELONI 20-49 CK SC,Autoservicio 20-49 CK,non
+BIG 10-19 CK SC,Autoservicio 10-19 CK,non
+BIG 20-49 CK SC,Autoservicio 20-49 CK,non
+BIG 50+ CK SC,Autoservicio 50+CK,chain
+LASA 2-4 CK SC,Autoservicio 2-4 CK,non
+LASA 5-9 CK SC,Autoservicio 5-9 CK,non
+LASA 10-19 CK SC,Autoservicio 10-19 CK,non
+LASA 20-49 CK SC,Autoservicio 20-49 CK,non
+IMPERATRIZ 5-9 CK SC,Autoservicio 5-9 CK,non
+IMPERATRIZ 10-19 CK SC,Autoservicio 10-19 CK,non
+IMPERATRIZ 20-49 CK SC,Autoservicio 20-49 CK,non
+NACIONAL 10-19 CK SC,Autoservicio 10-19 CK,non
+COMPER 10-19 CK SC,Autoservicio 10-19 CK,non
+Farma DROGA RAIA SC,Farmacia,chain
+Farma PANVEL SC,Farmacia,chain
+Farma CATARINENSE SC,Farmacia,chain
+Farma SESI SC,Farmacia,chain
+Farma PAGUE MENOS SC,Farmacia,chain
+Farma ANGELONI SC,Farmacia,chain
+Farma NISSEI SC,Farmacia,chain
+Farma MAIS ECONOMICA SC,Farmacia,chain
+COTIRO Perf SC,Perfumeria,chain
+LAFI COSMTICOS Perf SC,Perfumeria,chain
+CADEIAS Conv Regmet Curitiba,Conveniencia,non
+CADEIAS Conv Regmet POA,Conveniencia,non
+CADEIAS Conv Int PR,Conveniencia,non
+CADEIAS Conv RS,Conveniencia,non
+CADEIAS Conv SC,Conveniencia,non
+Farma PACHECO Int PR,Farmacia,chain
+Farma PACHECO Regmet Curitiba,Farmacia,chain
+Interior Parana 20-49 CK ANGELONI,Autoservicio 20-49 CK,chain
+Interior Parana 20-49 CK WAL MART,Autoservicio 20-49 CK,chain
+Santa Catarina 5-9 CK LASA EXPRESS,Autoservicio 5-9 CK,chain
+Farma ANGELONI Int Parana,Farma,chain
+Conv Cuiab ,Conveniencia,non
+INDEP 1 CK Cuiab ,Autoservicio 1 CK,non
+INDEP 2-4 CK Cuiab ,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Cuiab ,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Cuiab ,Autoservicio 10-19 CK,non
+Trad PQ CC Cuiab ,Tradicional Peq + Med + Gde CC,non
+Trad PQ SC Cuiab ,Tradicional Peq + Med SC,non
+Pad Peq Cuiab ,Padar¡a Peq + Med + Gde,non
+Bar Peq Cuiab ,Bar Peq,non
+Bar Gde Cuiab ,Bar Gde,non
+Farm Pq INDEP Cuiab ,Farmacia Peq + Med,non
+Farm GD INDEP Cuiab ,Farmacia Gde,non
+Perf PQ INDEP Cuiab ,Perfumeria Peq + Gde,non
+EXTRA 20-49 CK Cuiab ,Autoservicio 20-49 CK,non
+COMPER 10-19 CK Cuiab ,Autoservicio 10-19 CK,non
+COMPER 20-49 CK Cuiab ,Autoservicio 20-49 CK,non
+LASA 5-9 CK Cuiab ,Autoservicio 5-9 CK,non
+LASA 10-19 CK Cuiab ,Autoservicio 10-19 CK,non
+Farma ROSARIO Cuiab ,Farmacia,chain
+Farma PAGUE MENOS Cuiab ,Farmacia,chain
+Farma EXTRA DROGARIA Cuiab ,Farmacia,chain
+Farma DEMAIS CADEIAS MED Cuiab ,Farmacia Med + Gde,non
+SOLU€ÇO COSMTICOS Perf Cuiab ,Perfumeria,chain
+Conv Bras¡lia-DF,Conveniencia,non
+INDEP 1 CK Bras¡lia-DF,Autoservicio 1 CK,non
+INDEP 2-4 CK Bras¡lia-DF,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+Trad PQ CC Bras¡lia-DF,Tradicional Peq CC,non
+Trad MD CC Bras¡lia-DF,Tradicional Med + Gde CC,non
+Trad PQ SC Bras¡lia-DF,Tradicional Peq SC,non
+Trad MD SC Bras¡lia-DF,Tradicional Med + Gde SC,non
+Pad Peq Bras¡lia-DF,Padar¡a Peq + Med,non
+Pad Gde  Bras¡lia-DF,Padar¡a Gde,non
+Bar Peq Bras¡lia-DF,Bar Peq,non
+Bar Gde Bras¡lia-DF,Bar Gde,non
+Farm Pq INDEP Bras¡lia-DF,Farmacia Peq,non
+Farm MD INDEP Bras¡lia-DF,Farmacia Med,non
+Farm GD INDEP Bras¡lia-DF,Farmacia Gde,non
+Perf PQ INDEP Bras¡lia-DF,Perfumeria Peq,non
+Perf GD INDEP Bras¡lia-DF,Perfumeria Gde,non
+DEM CAD 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+PÇO DE A€éCAR 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+EXTRA 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Bras¡lia-DF,Autoservicio 50+CK,chain
+CHAMPION 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+CHAMPION 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Bras¡lia-DF,Autoservicio 50+CK,chain
+COMPER 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+COMPER 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+COMPER 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+LASA 2-4 CK Bras¡lia-DF,Autoservicio 2-4 CK,non
+LASA 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+LASA 10-19 CK Bras¡lia-DF,Autoservicio 10-19 CK,non
+LASA 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+WALMART 20-49 CK Bras¡lia-DF,Autoservicio 20-49 CK,non
+AMEX 5-9 CK Bras¡lia-DF,Autoservicio 5-9 CK,non
+Farma DROGARIA PDA Bras¡lia-DF,Farmacia,chain
+Farma ROSARIO Bras¡lia-DF,Farmacia,chain
+Farma SANTA MARTA Bras¡lia-DF,Farmacia,chain
+Farma EXTRA DROGARIA Bras¡lia-DF,Farmacia,chain
+Farma PAGUE MENOS Bras¡lia-DF,Farmacia,chain
+Farma DROGASIL Bras¡lia-DF,Farmacia,chain
+Farma DROGARIA SÇO PAULO Bras¡lia-DF,Farmacia,chain
+Farma DEM CAD GDE Bras¡lia-DF,Farmacia Med + Gde,non
+Farma DROGA FUJI Bras¡lia-DF,Farmacia,chain
+Conv Goi s,Conveniencia,non
+INDEP 1 CK Goi s,Autoservicio 1 CK,non
+INDEP 2-4 CK Goi s,Autoservicio 2-4 CK,non
+INDEP 5-9 CK Goi s,Autoservicio 5-9 CK,non
+INDEP 10-19 CK Goi s,Autoservicio 10-19 CK,non
+INDEP 20-49 CK Goi s,Autoservicio 20-49 CK,non
+Trad PQ CC Goi s,Tradicional Peq CC,non
+Trad MD CC Goi s,Tradicional Med + Gde CC,non
+Trad PQ SC Goi s,Tradicional Peq SC,non
+Trad MD SC Goi s,Tradicional Med + Gde SC,non
+Pad Peq Goi s,Padar¡a Peq,non
+Pad Med Goi s,Padar¡a Med,non
+Pad Gde  Goi s,Padar¡a Gde,non
+Bar Peq Goi s,Bar Peq,non
+Bar Gde Goi s,Bar Gde,non
+Farm Pq INDEP Goi s,Farmacia Peq,non
+Farm MD INDEP Goi s,Farmacia Med,non
+Farm GD INDEP Goi s,Farmacia Gde,non
+Perf PQ INDEP Goi s,Perfumeria Peq + Gde,non
+DEM CAD 2-4 CK Goi s,Autoservicio 2-4 CK,non
+DEM CAD 5-9 CK Goi s,Autoservicio 5-9 CK,non
+PÇO DE A€éCAR 10-19 CK Goi s,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK Goi s,Autoservicio 20-49 CK,non
+EXTRA 50+ CK Goi s,Autoservicio 50+CK,chain
+WALMART 20-49 CK Goi s,Autoservicio 20-49 CK,non
+COMPER 10-19 CK Goi s,Autoservicio 10-19 CK,non
+BRETAS 10-19 CK Goi s,Autoservicio 10-19 CK,non
+BRETAS 20-49 CK Goi s,Autoservicio 20-49 CK,non
+CARREFOUR 20-49 CK Goi s,Autoservicio 20-49 CK,non
+CARREFOUR 50+ CK Goi s,Autoservicio 50+CK,chain
+LASA 2-4 CK Goi s,Autoservicio 2-4 CK,non
+LASA 5-9 CK Goi s,Autoservicio 5-9 CK,non
+LASA 10-19 CK Goi s,Autoservicio 10-19 CK,non
+LASA 20-49 CK Goi s,Autoservicio 20-49 CK,non
+AMEX 5-9 CK Goi s,Autoservicio 5-9 CK,non
+BH 10-19 CK Goi s,Autoservicio 10-19 CK,non
+Farma DROGARIA SÇO PAULO Goi s,Farmacia,chain
+Farma SANTA MARTA Goi s,Farmacia,chain
+Farma DROGASIL Goi s,Farmacia,chain
+Farma PAGUE MENOS Goi s,Farmacia,chain
+Farma EXTRA DROGARIA Goi s,Farmacia,chain
+Farma ROSARIO Goi s,Farmacia,chain
+Farma DEMAIS CADEIAS MED Goi s,Farmacia Med + Gde,non
+COSMETICO CENTER Perf Goi s,Perfumeria,chain
+INDEP 1 CK INT MT,Autoservicio 1 CK,non
+INDEP 2-4 CK INT MT,Autoservicio 2-4 CK,non
+INDEP 5-9 CK INT MT,Autoservicio 5-9 CK,non
+INDEP 10-19 CK INT MT,Autoservicio 10-19 CK,non
+Trad PQ CC INT MT,Tradicional Peq CC,non
+Trad MD CC INT MT,Tradicional Med + Gde CC,non
+Trad PQ SC INT MT,Tradicional Peq + Med + Gde SC,non
+Pad Peq INT MT,Padar¡a Peq,non
+Pad Gde  INT MT,Padar¡a Med + Gde,non
+Bar Peq INT MT,Bar Peq,non
+Bar Gde INT MT,Bar Gde,non
+Farm Pq INDEP INT MT,Farmacia Peq,non
+Farm MD INDEP INT MT,Farmacia Med + Gde,non
+Perf PQ INDEP INT MT,Perfumeria Peq + Gde,non
+DEM CAD 20-49 CK INT MT,Autoservicio 20-49 CK,non
+LASA 10-19 CK INT MT,Autoservicio 10-19 CK,non
+EXTRA 10-19 CK INT MT,Autoservicio 10-19 CK,non
+COMPER 10-19 CK INT MT,Autoservicio 10-19 CK,non
+COMPER 20-49 CK INT MT,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS INT MT,Farmacia,chain
+Farma ROSARIO INT MT,Farmacia,chain
+Farma DROGASIL INT MT,Farmacia,chain
+Conv MS,Conveniencia,non
+INDEP 1 CK MS,Autoservicio 1 CK,non
+INDEP 2-4 CK MS,Autoservicio 2-4 CK,non
+INDEP 5-9 CK MS,Autoservicio 5-9 CK,non
+INDEP 10-19 CK MS,Autoservicio 10-19 CK,non
+INDEP 20-49 CK MS,Autoservicio 20-49 CK,non
+Trad PQ CC MS,Tradicional Peq CC,non
+Trad MD CC MS,Tradicional Med + Gde CC,non
+Trad PQ SC MS,Tradicional Peq SC,non
+Trad MD SC MS,Tradicional Med + Gde SC,non
+Pad Peq MS,Padar¡a Peq,non
+Pad Med MS,Padar¡a Med,non
+Pad Gde  MS,Padar¡a Gde,non
+Bar Peq MS,Bar Peq,non
+Bar Gde MS,Bar Gde,non
+Farm Pq INDEP MS,Farmacia Peq,non
+Farm MD INDEP MS,Farmacia Med,non
+Farm GD INDEP MS,Farmacia Gde,non
+Perf PQ INDEP MS,Perfumeria Peq,non
+Perf GD INDEP MS,Perfumeria Gde,non
+DEM CAD 5-9 CK MS,Autoservicio 5-9 CK,non
+DEM CAD 10-19 CK MS,Autoservicio 10-19 CK,non
+EXTRA 10-19 CK MS,Autoservicio 10-19 CK,non
+EXTRA 20-49 CK MS,Autoservicio 20-49 CK,non
+WALMART 20-49 CK MS,Autoservicio 20-49 CK,non
+COMPER 5-9 CK MS,Autoservicio 5-9 CK,non
+COMPER 10-19 CK MS,Autoservicio 10-19 CK,non
+CARREFOUR 20-49 CK MS,Autoservicio 20-49 CK,non
+LASA 5-9 CK MS,Autoservicio 5-9 CK,chain
+LASA 10-19 CK MS,Autoservicio 10-19 CK,non
+LASA 20-49 CK MS,Autoservicio 20-49 CK,non
+CIDADE CAN€ÇO 20-49 CK MS,Autoservicio 20-49 CK,non
+Farma PAGUE MENOS MS,Farmacia,chain
+Farma EXTRA DROGARIA MS,Farmacia,chain
+Farma DROGASIL MS,Farmacia,chain
+Farma CATARINENSE MS,Farmacia,chain
+Farma DROGA RAIA Goi s,Farmacia,chain
+Farma DROGA FUJI Goi s,Perfumeria,chain
+Farma DROGASIL Cuiab ,Farmacia,chain
+Mato Grosso do Sul 5-9 CK PAO DE ACUCAR,Autoservicio 5-9 CK,chain
+Farma DROGA RAIA Mato Grosso do Sul,Farma,chain
+Nordeste CASH & CARRY ATACADAO,Cash & Carry,chain
+Nordeste CASH & CARRY MAKRO,Cash & Carry,chain
+Nordeste CASH & CARRY ASSAI,Cash & Carry,chain
+Nordeste CASH & CARRY MAXXI,Cash & Carry,chain
+AREA 2 CASH & CARRY ATACADAO,Cash & Carry,chain
+AREA 2 CASH & CARRY MAKRO,Cash & Carry,chain
+AREA 2 CASH & CARRY MAXXI,Cash & Carry,chain
+AREA 2 CASH & CARRY SPANI,Cash & Carry,chain
+AREA 2 CASH & CARRY VILLEFORT,Cash & Carry,chain
+AREA 2 CASH & CARRY MART MINAS,Cash & Carry,chain
+AREA 2 CASH & CARRY APOIO MINEIRO,Cash & Carry,chain
+AREA 3 CASH & CARRY ATACADAO,Cash & Carry,chain
+AREA 3 CASH & CARRY MAKRO,Cash & Carry,chain
+AREA 3 CASH & CARRY ASSAI,Cash & Carry,chain
+AREA 4 CASH & CARRY ATACADAO,Cash & Carry,chain
+AREA 4 CASH & CARRY MAKRO,Cash & Carry,chain
+AREA 4 CASH & CARRY ASSAI,Cash & Carry,chain
+AREA 4 CASH & CARRY MAXXI,Cash & Carry,chain
+AREA 4 CASH & CARRY TENDA ATACADISTA,Cash & Carry,chain
+AREA 4 CASH & CARRY ROLDAO,Cash & Carry,chain
+AREA 5 CASH & CARRY ATACADAO,Cash & Carry,chain
+AREA 5 CASH & CARRY MAKRO,Cash & Carry,chain
+AREA 5 CASH & CARRY ASSAI,Cash & Carry,chain
+AREA 5 CASH & CARRY MAXXI,Cash & Carry,chain
+AREA 5 CASH & CARRY TENDA ATACADISTA,Cash & Carry,chain
+AREA 5 CASH & CARRY ROLDAO,Cash & Carry,chain
+AREA 5 CASH & CARRY SPANI,Cash & Carry,chain
+AREA 6 CASH & CARRY ATACADAO,Cash & Carry,chain
+AREA 6 CASH & CARRY MAKRO,Cash & Carry,chain
+AREA 6 CASH & CARRY ASSAI,Cash & Carry,chain
+AREA 6 CASH & CARRY MAXXI,Cash & Carry,chain
+AREA 6 CASH & CARRY ROLDAO,Cash & Carry,chain
+Centro-Oeste CASH & CARRY ATACADAO,Cash & Carry,chain
+Centro-Oeste CASH & CARRY MAKRO,Cash & Carry,chain
+Centro-Oeste CASH & CARRY ASSAI,Cash & Carry,chain
+Centro-Oeste CASH & CARRY MAXXI,Cash & Carry,chain
+Municipios Norte CASH & CARRY MAKRO,Cash & Carry,chain
+Trad PQ CC Reg. Campinas TC234,Tradicional Peq CC,non
+Trad PQ SC Reg. Campinas TC234,Tradicional Peq + Med + Gde SC,non
+Pad Peq Reg. Campinas TC234,Padar¡a Peq,non
+Pad Med Reg. Campinas TC234,Padar¡a Med,non
+Pad Gde  Reg. Campinas TC234,Padar¡a Gde,non
+Bar Peq Reg. Campinas TC234,Bar Peq,non
+Bar Gde Reg. Campinas TC234,Bar Gde,non
+Perf PQ INDEP Reg. Campinas TC234,Perfumeria Peq,non
+Perf GD INDEP Reg. Campinas TC234,Perfumeria Gde,non
+FIKABELLA Perf Reg. Campinas TC234,Perfumeria,chain
+Trad PQ CC Reg. Campinas TC>5,Tradicional Peq + Med CC,non
+Trad GD SC Reg. Campinas TC>5,Tradicional Med + Gde SC,non
+Pad Peq Reg. Campinas TC>5,Padar¡a Peq,non
+Pad Med Reg. Campinas TC>5,Padar¡a Med,non
+Pad Gde  Reg. Campinas TC>5,Padar¡a Gde,non
+Bar Peq Reg. Campinas TC>5,Bar Peq,non
+Bar Gde Reg. Campinas TC>5,Bar Gde,non
+Perf PQ INDEP Reg. Campinas TC>5,Perfumeria Peq + Gde,non
+CADEIAS Conv Vale do Para¡ba,Conveniencia,non
+CADEIAS Conv Reg. Campinas,Conveniencia,non
+CADEIAS Conv Reg Bauru-Marilia-Prud,Conveniencia,non
+CADEIAS Conv SJRP/Ara‡atuba,Conveniencia,non
+Farma NISSEI Reg. Campinas,Farmacia,chain
+Farma NISSEI Rib Preto,Farmacia,chain
+MINUTO PDA 2-4 CK Reg. Campinas,Autoservicio 2-4 CK,chain
+MINUTO PDA 2-4 CK Gde SP IBGE,Autoservicio 2-4 CK,chain
+MINUTO PDA 5-9 CK Gde SP IBGE,Autoservicio 5-9 CK,chain
+MINUTO PDA 5-9 CK Sorocaba,Autoservicio 5-9 CK,chain
+Farma CATARINENSE SJRP/Ara‡atuba,Farma,chain
+Farma NISSEI SJRP/Ara‡atuba,Farma,chain
+EXTRA PERTO 10-19 CK Sorocaba,Autoservicio 10-19 CK,chain
+IKESAKI Perf Reg.Campinas,Perfumeria,chain
+FIKBELLA Sorocaba,Perfumeria,chain
+MINUTO PDA 5-9 CK Vale do Para¡ba,Autoservicio 5-9 CK,chain
+CIDADE CAN€ÇO 10-19 CK Reg Bauru-Marilia-Prud,Autoservicio 10-19 CK,chain
+CIDADE CAN€ÇO 20-49 CK Reg Bauru-Marilia-Prud,Autoservicio 20-49 CK,chain
